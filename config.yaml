@@ -1,7 +1,7 @@
 baseURL: 'http://example.org/'
 languageCode: 'en-us'
-title: 'On Hornplaying'
-theme: library
+title: 'On Horn Playing'
+theme: hugo-theme-library
 
 params:
   mainSections: ['books']
