@@ -1,0 +1,7 @@
+baseURL: 'http://example.org/'
+languageCode: 'en-us'
+title: 'On Hornplaying'
+theme: library
+
+params:
+  mainSections: ['books']
