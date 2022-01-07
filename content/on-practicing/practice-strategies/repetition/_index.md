@@ -1,8 +1,7 @@
 ---
-title: Managing Work
+title: Repetition Strategies
 view: list-essays
 params:
-  pattern: 2
   no_tags: true
   no_date: true
 ---

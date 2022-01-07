@@ -5,7 +5,6 @@ params:
   pattern: 2
 ---
 
-This website documents my attempt at writing a textbook for advanced horn students (advanced pre-university and university level).
 
 On Horn Playing has many aims.
 

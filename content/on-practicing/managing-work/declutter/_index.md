@@ -1,0 +1,3 @@
+---
+title: Declutter, Mind dump
+---
