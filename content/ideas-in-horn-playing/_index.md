@@ -8,4 +8,4 @@ params:
   no_date: true
 ---
 
-A collection of essays that illuminate the central ideas in playing the horn. The ideas might seem unusual, but I find them to be relevant.
+A collection of essays that illuminate the central ideas in playing the horn. The ideas might seem unusual, but I consider them to be [Threshold Concepts]({{< ref "threshold-concepts.md" >}}). Such ideas, once internalized change the way you see the world.
