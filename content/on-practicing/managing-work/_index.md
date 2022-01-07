@@ -3,6 +3,5 @@ title: Managing Work
 view: list-essays
 params:
   pattern: 2
-  no_tags: true
-  no_date: true
+  show_date: true
 ---
