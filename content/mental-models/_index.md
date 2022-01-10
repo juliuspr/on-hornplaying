@@ -1,5 +1,6 @@
 ---
 title: Mental Models
+view: list-essays
 params:
   pattern: 3
 ---

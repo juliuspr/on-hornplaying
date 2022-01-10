@@ -1,5 +1,6 @@
 ---
-title: What is Horn Playing? A Survey
+title: What is Horn Playing?
+weight: 20
 ---
 
 The survey consists of two parts.

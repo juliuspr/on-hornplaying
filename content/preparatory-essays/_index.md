@@ -1,6 +1,6 @@
 ---
 title: Preparatory Essays
-view: list-essays
+view: strategy-overview
 weight: 200
 params:
   no_tags: true

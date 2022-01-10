@@ -1,5 +1,6 @@
 ---
 title: On Learning
+weight: 50
 ---
 
 

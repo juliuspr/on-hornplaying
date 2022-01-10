@@ -2,7 +2,10 @@
 title: "Instrument's Resistance"
 draft: true
 ---
-Horn's resistance is an overlooked topic. 
+
+> Respect the tube! ???? VerMuelen
+
+Horn's resistance is an overlooked topic.
 
 
 Changing resistance
@@ -11,11 +14,18 @@ Støtdempere
 
 Leaning
 
+Being glued to resistance
+Blowing blindly
+Loosing contact with the resistance and the ricochet.
 
+Even air stream??? Air column, air stream
 
 Respecting the tube
 
+## Fear of falling
 
+
+## Leaning. Trust the horn!
 
 ## Literature and other sources
 
