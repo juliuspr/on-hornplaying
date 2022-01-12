@@ -1,5 +1,5 @@
 ---
-title: Preparatory Essays
+title: Working Notes 
 view: strategy-overview
 weight: 200
 params:
