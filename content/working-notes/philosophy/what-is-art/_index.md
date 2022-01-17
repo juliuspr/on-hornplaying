@@ -45,3 +45,9 @@ En kunstner skal prege... menes det billedkunstner? Det sies ikke noe om musikku
 ## Tricks
 
 Art of Hornplaying is the amount of “tricks” you know on the horn. It’s about the size of the repertoire of doing, imagining. Masterful coping
+
+
+## Metaphors
+Art as a public service
+Public good
+First-person meaning of art
