@@ -1,3 +1,3 @@
 ---
-title: Phsychology
+title: Psychology
 ---

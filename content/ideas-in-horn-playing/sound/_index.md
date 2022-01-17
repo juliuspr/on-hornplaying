@@ -1,6 +1,14 @@
 ---
+title: Sound
 id: sound
 ---
+
+The Beaux-Ton
+
+Sound culture
+
+
+The Art of Sound
 
 ## Karl Biehlig: Kompendium
 

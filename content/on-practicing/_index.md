@@ -1,6 +1,7 @@
 ---
 title: On Practicing
 weight: 20
+view: strategy-overview
 params:
   pattern: 1
 ---

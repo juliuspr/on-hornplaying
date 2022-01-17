@@ -13,10 +13,11 @@ Audiation roughly refers to the idea of imagining sound prior to producing it.
 
 Although the term might be unfamiliar, the idea itself is old. Because different authors and pedagogues have used different names and descriptions, the idea has sometimes become lost.
 
+## Fill your head with sound (and the content of the consciousness)
 
 
 
-
+"Anticipation - which is extremely important - so that's not to be taken by surprise" Menuhin Lesson 1
 
 
 ## Literature and other sources
