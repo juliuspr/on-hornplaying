@@ -1,7 +1,7 @@
 ---
 title: What is Horn Playing?
 description: Perspectives on Horn playing
-view: strategy-overview
+view: list-essays 
 weight: 20
 ---
 

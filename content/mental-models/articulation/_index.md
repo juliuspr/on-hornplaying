@@ -15,3 +15,8 @@ draft: true
 Tu-Ta are wrong ways to think; engaging the instrument, contact with the resistance.
 
 No spitting
+
+
+## Double-triple tonguing
+
+- Long vowels

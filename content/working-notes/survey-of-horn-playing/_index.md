@@ -4,6 +4,8 @@ params:
   pattern: 4
 ---
 
-The Horn Call is a trade journal of the International Horn Society.
+The Horn Call is a trade journal published by the International Horn Society. I was interested in finding the most prevalent topics.
 
-To find the most prevalent topics, I have made an overview of the keywords used in the Horn Call. The Horn Call is a periodical published by the International Horn Society.
+I have made an overview of the keywords The Horn Call uses to categorize the articles. I have grouped the keywords into XXX overarching categories.
+
+Word-cloud?

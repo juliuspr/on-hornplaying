@@ -9,3 +9,5 @@ params:
 ---
 
 This collection of essays illuminates several central ideas in playing the horn. The ideas might seem unusual at first. However, I consider them to be [Threshold Concepts]({{< ref "threshold-concepts.md" >}}). Threshold concepts, once internalised, change the way we see the world. We approach playing differently when you see things differently.
+
+It is easy to get lost. 
