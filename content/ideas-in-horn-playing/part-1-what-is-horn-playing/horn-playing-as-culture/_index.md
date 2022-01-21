@@ -2,7 +2,7 @@
 title: Horn Playing as Cultural Practice
 ---
 
-## Horn Culture
+## Horn Culture / Culture of horn playing
 - People
 - Participation
 - Organizations

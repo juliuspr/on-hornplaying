@@ -9,3 +9,5 @@ The Horn Call is a trade journal published by the International Horn Society. I 
 I have made an overview of the keywords The Horn Call uses to categorize the articles. I have grouped the keywords into XXX overarching categories.
 
 Word-cloud?
+
+First, an analysis of the themes in The Horn Call. 

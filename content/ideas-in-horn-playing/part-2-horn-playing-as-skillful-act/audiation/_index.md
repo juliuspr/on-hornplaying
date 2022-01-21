@@ -42,3 +42,15 @@ Duvernoy
 ### Inner ear, inner hearing, audiation?
 
 Is audiation hearing? Types of perception. The content of consciousness.
+
+
+
+
+
+## ???
+
+The ability to imagine the sound will determine if you will be able to produce it.
+But it is maybe also important to say that you can get away without explicitly thinking about this part
+
+Audiation
+https://www.youtube.com/watch?v=KMqOOokv4TM
