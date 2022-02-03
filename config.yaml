@@ -1,7 +1,7 @@
 baseURL: 'https://goofy-nightingale-b79575.netlify.app/'
 languageCode: 'en-us'
 title: 'On Horn Playing'
-# theme: hugo-theme-library
+theme: library
 
 params:
   mainSections: ['books']
