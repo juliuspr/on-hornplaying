@@ -3,6 +3,9 @@ title: Articulation
 draft: true
 ---
 
+Synonyms: diction
+
+
 ## Blowing fast, blowing slow
 
 - Fast air and articulation
