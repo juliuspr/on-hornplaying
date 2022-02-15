@@ -1,3 +1,0 @@
----
-title: Franz and Kopprasch
----

@@ -1,4 +1,0 @@
----
-title: Reflection
-id: reflection
----
