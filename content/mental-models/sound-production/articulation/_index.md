@@ -10,6 +10,7 @@ Synonyms: diction
 
 - Fast air and articulation
 - Air before tongue
+- Consonant before the beat
 
 
 ## Other

@@ -1,5 +1,6 @@
 ---
 title: Horn Skills
+view: strategy-overview
 ---
 
 ## Flexibility
@@ -15,7 +16,7 @@ title: Horn Skills
 ## Power, Endurance
 
 
-
+## Sight-reading
 
 Skills or Techniques?
 

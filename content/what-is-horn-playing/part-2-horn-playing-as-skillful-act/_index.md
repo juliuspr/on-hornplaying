@@ -10,6 +10,8 @@ How to explain this to a 10 year old?
 
 This chapter builds a framework for thinking about "What is this thing called horn playing?". The goal is not to claim the views from Part 1 are wrong. I aim to show **how they fit together**.
 
+The main idea: everything is interconnected.
+
 Harmonising the views is not a simple affair and requires several things.
 
 - Respecting the complexity
@@ -51,7 +53,7 @@ Due to being situated in a context where formal research has been done, WCM also
 
 Comparative methods juxtapose WCM with other musics focusing on the differences. This strengthens the chasm.
 
-Other research focuses on the difference between novice and expert. This transition often conceives of the novice as a 'tabula rasa', a blank slate. However, from educational research we know that learner's come into learning situation with their preconceptions. 
+Other research focuses on the difference between novice and expert. This transition often conceives of the novice as a 'tabula rasa', a blank slate. However, from educational research we know that learner's come into learning situation with their preconceptions.
 
 Yet other research has focused on smaller entities of the field: the score/Werktreue, the sound and its properties. Ontologically these ideas are detached from the lived life, the inhabitted life and live in the realm of abstract. Nonetheless these have been accepted as essential characteristics of music.
 

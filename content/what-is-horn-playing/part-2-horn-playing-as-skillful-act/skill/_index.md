@@ -1,5 +1,5 @@
 ---
-title: Skillful Act
+title: Skillful Act (Skill)
 draft: true
 ---
 
