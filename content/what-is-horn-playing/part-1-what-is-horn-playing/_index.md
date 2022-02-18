@@ -1,5 +1,5 @@
 ---
-title: "Part 1: What is Horn Playing?"
+title: "Part 1: Different Views on Horn Playing"
 description: Perspectives on Horn playing
 view: list-essays
 weight: 20

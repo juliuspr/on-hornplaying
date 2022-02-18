@@ -1,11 +1,14 @@
 ---
-title: Ideas in Horn Playing
+title: What is Horn Playing?
 weight: 10
-view: strategy-overview 
+view: strategy-overview
 params:  
   pattern: 3
   no_tags: true
   no_date: true
 ---
 
-This collection of essays illuminates several central ideas in playing the horn. The ideas might seem unusual at first. However, I consider them to be [Threshold Concepts]({{< ref "threshold-concepts.md" >}}). Threshold concepts, once internalised, change the way we see the world. We approach playing differently when you see things differently.
+This collection of essays asks a basic question: What is Horn Playing?
+
+
+illuminates several central ideas in playing the horn. The ideas might seem unusual at first. However, I consider them to be [Threshold Concepts]({{< ref "threshold-concepts.md" >}}). Threshold concepts, once internalised, change the way we see the world. We approach playing differently when you see things differently.
