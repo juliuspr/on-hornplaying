@@ -7,6 +7,8 @@ weight: 20
 
 What is this thing called horn playing?
 
+The Point: It's complex. It's easy to commit to one view at the expense of others.
+
 Rather than giving one definite answer I want to focus on the variety of possible ones. Horn playing is a different thing to different people.
 
 The essays in this part summarize some of the ways for looking at horn playing. How can horn playing be understood? Can the different views co-exist? What conflicts arise when we change the perspectives?

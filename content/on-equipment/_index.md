@@ -1,5 +1,5 @@
 ---
-title: On Equipment
+title: "Things in Horn Playing: or On Equipment"
 ---
 
 The relationship of a horn player with the equipment is complicated.

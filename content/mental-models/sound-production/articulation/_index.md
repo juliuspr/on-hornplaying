@@ -12,6 +12,8 @@ Synonyms: diction
 - Air before tongue
 - Consonant before the beat
 
+- Ikke spytt. Spitting tone out
+- Diction, not tonguing
 
 ## Other
 
@@ -24,3 +26,9 @@ No spitting
 ## Double-triple tonguing
 
 - Long vowels
+
+## Fast repetition
+- Small and light tongue action/movement
+- Constant uninterrupted air stream, glued contact with the resistance
+- No spitting, No ricochet
+- Awareness of the primary control

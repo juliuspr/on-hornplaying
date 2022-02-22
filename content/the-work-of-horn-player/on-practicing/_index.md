@@ -6,4 +6,10 @@ params:
   pattern: 1
 ---
 
-This is a page on practicing
+Understanding practicing.
+
+Practicing as
+- skill acquisition
+- learning
+- staying in shape
+- meditation/ritual

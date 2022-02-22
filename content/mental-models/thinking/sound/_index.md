@@ -2,4 +2,5 @@
 title: Sound
 view: list-essays
 ---
-Mental models related to Sound
+
+About thinking in sound. This relates to Epistemology

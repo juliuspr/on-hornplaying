@@ -16,3 +16,16 @@ Often people take small breaths up to 50-60%. This causes the need to push the a
 
 [The Sigh]({{< ref "sigh.md" >}})
 [Finger Breathing]({{< ref "finger-breathing.md" >}})
+
+
+- Air leading
+- Broad air stream
+- Dark air, breathing in
+- Full, relaxed breath
+
+- Waste air
+- Dark air. DARK AIR
+- Using the air up
+- Blow the mouthpiece off your face
+- Endings as beautiful and pure as the behinnings
+- Solidify blow and flow: straight constant big air stream
