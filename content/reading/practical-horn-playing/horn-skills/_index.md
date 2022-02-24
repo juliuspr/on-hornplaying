@@ -1,5 +1,6 @@
 ---
 title: Overview of Horn Skills
+title: 📖 Overview of Horn Skills
 view: strategy-overview
 ---
 

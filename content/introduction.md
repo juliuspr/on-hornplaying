@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: Preface
 ---
 
 "On Horn Playing" is a set of resources for anyone interested in making sense of the thing that we call horn playing. The resources are divided into three parts: playing, reading and listening. This division sets the stage for discussing horn playing from various perspectives.

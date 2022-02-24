@@ -1,5 +1,6 @@
 ---
 title: Mental Models
+linkTitle: 📖 Mental Models
 view: strategy-overview
 weight: 20
 params:
