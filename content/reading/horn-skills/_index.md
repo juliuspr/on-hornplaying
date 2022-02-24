@@ -1,5 +1,5 @@
 ---
-title: Horn Skills
+title: Overview of Horn Skills
 view: strategy-overview
 ---
 
