@@ -1,5 +1,5 @@
 ---
-title: Ideas in Horn Playing
+title: "Part 4: Ideas in Horn Playing"
 ---
 
 ## Synopsis

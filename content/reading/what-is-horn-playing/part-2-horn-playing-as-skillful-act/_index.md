@@ -1,5 +1,5 @@
 ---
-title: "Part 2: Horn Playing as a Skillful Act"
+title: "Part 3: Horn Playing as a Skillful Act"
 ---
 
 Part 1 dealt with the different metaphors for horn playing. Part 2 builds another metaphor that aims to integrate the views from Part 1.

@@ -1,5 +1,6 @@
 ---
-title: Survey of The Horn Call
+title: "Part 2: Structure of Horn Playing: Survey"
+description: Survey of The Horn Call
 params:
   pattern: 4
 ---
@@ -10,4 +11,4 @@ I have made an overview of the keywords The Horn Call uses to categorize the art
 
 Word-cloud?
 
-First, an analysis of the themes in The Horn Call. 
+First, an analysis of the themes in The Horn Call.
