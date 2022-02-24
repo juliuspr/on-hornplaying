@@ -12,7 +12,9 @@ Another group of philosophic questions is epistemological questions. How do we k
 
 The goal of these resources is to draw out the connections between the practical and the conceptual sides of horn playing. How we think affects how we act, and vice versa.
 
-## Overview. How to use the resources?
+## Overview. How is it structured? How to use the resources?
+
+
 
 The Playing part is the most practical: the resources are meant for practical engagement.
 
@@ -31,3 +33,10 @@ I make the distinction between the practical and conceptual and say that the rea
 In fact, all three parts are both conceptual and practical. By playing we engage in implicit theorizing and lived philosophy. By listening and participating we acquire knowledge about the music that we are listening to and the contexts in which we participate in.
 
 The Reading part is also a very practical endeavour. Reading itself is not some sort of metaphysical activity: its very practical. Making sense of the content is also practical, and requires reflection, discussion, trying out.
+
+
+
+
+## Goal
+
+An account that is Vygotskian and sociological
