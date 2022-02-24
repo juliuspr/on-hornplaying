@@ -15,4 +15,4 @@ We tend to think that learning to play the horn primarily is about practicing an
 - Sharing your thoughts about music
 - Taking in other people’s thoughts and musics
 
-Modes of Learning relate to Epistemology of Music{{< ref "epistemology-of-music" >}}
+Modes of Learning relate to Epistemology of Music{{ <relref "epistemology-of-music.md" >}}
