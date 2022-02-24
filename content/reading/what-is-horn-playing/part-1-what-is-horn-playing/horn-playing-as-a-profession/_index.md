@@ -2,8 +2,13 @@
 title: Horn Playing as a Profession
 ---
 
-## As a Craft
+Horn playing becomes a profession when one starts making a living from it.
 
-## Professional Ethics
+What is a profession? What characterizes the notion of profession?
 
-## Professional Standards and Expectations
+When we talk about profession we talk about
+- mastering a certain craft
+- professional standards and expectations
+- professional ethics
+
+## Tensions with other metaphors
