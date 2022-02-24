@@ -8,4 +8,10 @@ params:
 
 module:
   imports:
-    path: "github.com/juliuspr/hugo-theme-library"
+  - path: "github.com/juliuspr/hugo-theme-library"
+
+  # - path: 'github.com/juliuspr/horn-playing-resources'
+  #   ignoreConfig: true
+  #   mounts:
+  #     source: "content"
+  #     target: "content/playing"
