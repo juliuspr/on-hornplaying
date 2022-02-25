@@ -90,6 +90,8 @@ Being explicit. A couple things to agree on:
 Ideals/Taste
 Acoustics
 
+- habitual intention?
+
 ## Outline
 
 Repertoire of things

@@ -201,4 +201,18 @@ https://www.youtube.com/watch?v=KMqOOokv4TM
 
 
 
-Action-conceptualization strategies 
+Action-conceptualization strategies
+
+
+- structured audiation
+- creative audiation. Wandering.
+
+
+- Think ahead
+- Audiate the other note
+- Audiation snake
+
+
+- Imagination
+- Forestillingsevne
+- Herme etter

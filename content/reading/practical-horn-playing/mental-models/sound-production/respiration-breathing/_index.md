@@ -8,6 +8,8 @@ view: list-essays
 - gain an overview of the different aspects of thinking about breathing
 
 ## Blowing
+- sukk/leaning
+
 
 ## Air: in and out. Your lungs. Breathing & Blowing - a cycle
 
@@ -89,3 +91,20 @@ See the Ideas
 
 ### Learning Activity: Vanishing time inbreath
 Vanishing time breathing exercise: shorter and shorter organized in-breaths. Quarter, eight not, triplet, sixteenth etc.
+
+
+## Practice air flow
+
+- Blow through mouthpiece
+- Inverse mouthpiece blowing pattern
+- Blow the phrase through the instrument
+- Breathing in with the hand
+
+
+## Long breath vs short breath
+
+
+## Blowing through vs blowing into the instrument
+> Most students do not BLOW THRU the horn. They blow INTO the horn. There sounds are stuffy and nasally.  https://www.gregwingtrumpet.com/uploads/2/1/4/0/21407028/understanding_trumpet_fundamentals.pdf
+
+Farkas has a similar sentence

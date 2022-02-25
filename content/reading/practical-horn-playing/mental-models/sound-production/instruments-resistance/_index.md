@@ -14,6 +14,8 @@ Coming to terms with the resistance
 
 Blind blowing
 
+Topology of the resistance
+
 
 Changing resistance
 

@@ -5,3 +5,4 @@ params:
   no_tags: true
   no_date: true
 ---
+Repetisjon er læringens mor.

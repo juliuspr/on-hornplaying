@@ -32,3 +32,5 @@ No spitting
 - Constant uninterrupted air stream, glued contact with the resistance
 - No spitting, No ricochet
 - Awareness of the primary control
+
+- Effortlessness and tennis ball, simple

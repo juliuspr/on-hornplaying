@@ -15,6 +15,7 @@ Wouldn't it be nice if you felt more rested, energized after you have played?
 
 
 
+Releasing the sound, not holding the sound
 
 ## End Notes
 
