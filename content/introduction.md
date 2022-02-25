@@ -2,15 +2,48 @@
 title: Preface
 ---
 
-"On Horn Playing" is a set of resources for anyone interested in making sense of the thing that we call horn playing. The resources are divided into three parts: playing, reading and listening. This division sets the stage for discussing horn playing from various perspectives.
+"On Horn Playing" is a knowledge base for anyone interested in the question: what is this thing we call horn playing?
 
-As we will see, horn playing is a complex phenomenon. Most often we are concerned with its practical side: How do I hold the instrument? How do I play the high notes? How (much) do I practice? What's the best routine? These are non-trivial questions. To answer them in a nuanced way we actually engage in quite a lot of theorizing.
+The knowledge base is divided into three parts:
+
+- Practical: playing/creating/imagining,
+- Conceptual: reading/theorizing/understanding/conceptual
+- Cultural: listening/participating/cultural
+
+Horn playing is a complex phenomenon. Its practical, conceptual and cultural sides are deeply intertwined. In fact, they are just three different lenses of looking at the same phenomenon - horn playing.
+
+"Traditional" literature on horn is mostly concerned with its practical side. How do I hold the instrument? How (much) do I practice? How do I play the high notes? What's the best routine? But what is "practical" to begin with? Just by writing about these topics we develop a conceptual understanding. The practical and conceptual are further embedded in our cultures and practices. For example, the language we speak influences how we think about a particular topic. How we think affects how we act, and vice versa, which then becomes culture.
+
+So the seemingly simple "practical" questions may not be as trivial as they might seem. This is the main goals of this website:
+
+- acknowledge the three parts
+- investigate them in depth
+
+## What kind of investigation is this?
+
+
+
+A more traditional scientific inquiry attempts to focus on a smaller sub-part of the phenomenon. This requires taking for granted
+
+
+While a pan-vision (seeing everything at once) is impossible, I hope we can let our focus wander freely, while still in a structured manner.
+
+
+
+
+
+
+
+
+
+
+
+
 
 But the practical dimension is only a part of the story. We can also discuss horn playing from a conceptual/philosophic perspective: What kind of thing is horn playing? This is an ontological question. It aims at the nature of horn playing. What kind of thing is it? What distinguishes it from other things? When we apply knowledge from, say, sports does horn playing become a sport?
 
 Another group of philosophic questions is epistemological questions. How do we know horn playing? What kind of knowledge is involved in playing? How do we exercise that knowledge? How do we learn to play? Is playing the horn a purely motoric activity void of any cognition? Is knowledge of playing verbal/discursive or of some different type, i.e. if I can talk about how to play the horn playing, does it entail that I can play the horn?
 
-The goal of these resources is to draw out the connections between the practical and the conceptual sides of horn playing. How we think affects how we act, and vice versa.
 
 ## Overview. How is it structured? How to use the resources?
 
@@ -39,4 +72,7 @@ The Reading part is also a very practical endeavour. Reading itself is not some 
 
 ## Goal
 
-An account that is Vygotskian and sociological
+An account that is
+- Vygotsky/Engeström - Activity theory
+- Husserl/Heidegger/Morleau-Ponty/Dreyfus - Being-in-the-world, tool analysis
+- Latour - sociomaterial

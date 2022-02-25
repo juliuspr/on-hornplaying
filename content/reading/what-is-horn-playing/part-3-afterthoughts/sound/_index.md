@@ -22,3 +22,5 @@ A und O guten Hornspiels ist ein edler und ausgewogener Ton; seine Qualität ber
 
 
 - The art of sound - idea history
+
+Sound modulation

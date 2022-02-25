@@ -87,7 +87,8 @@ Being explicit. A couple things to agree on:
 
 ##
 
-
+Ideals/Taste
+Acoustics
 
 ## Outline
 

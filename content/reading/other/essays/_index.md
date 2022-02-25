@@ -1,5 +1,6 @@
 ---
-title: Essays on Music
+title: Essays
+view: list-essays
 params:
   pattern: 2
 ---

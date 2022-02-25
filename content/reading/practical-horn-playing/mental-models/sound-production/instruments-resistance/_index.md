@@ -7,6 +7,7 @@ draft: true
 
 Horn's resistance is an overlooked topic.
 
+Coming to terms with the resistance
 
 ## The fear of falling (and trusting the resistance)
 
@@ -34,6 +35,8 @@ Respecting the tube
 ## Leaning. Trust the horn!
 
 ## Literature and other sources
+
+Notice how the instrument responds what you are doing - A feedback system
 
 Respecting the tube
 

@@ -33,6 +33,13 @@ Mental models are the structures of understanding
 - Troubleshooting
 - Receiving feedback and making meaning of it and acting productively on it
 
+## Mental models vs metaphors
+
+## On the use of metaphor
+
+Metaphors are not real things. They help us understand complex ideas by linking other domains that have similar relationships between their entities. Metaphors do not replace things they describe. To give an example of what I mean by this, metaphors regarding breathing are prevalent and some of them are taken to mean the things literally: one such metaphor is breathing to your belly, or your heels. It is a physical impossibility to do so, yet it does sometimes serve as a useful image for a more efficient, larger breath. While the only meaningful thing would be to say breath into your lungs, a more inclusive thought of “using more of your body” extends (correctly) the thought of breathing to encompass the whole of the living body. (Footnote: on philosophy of breathing see the Philosophy part).
+
+
 ## NOTES
 How we think affects how we act and approach things.
 
