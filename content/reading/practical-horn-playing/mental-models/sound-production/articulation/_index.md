@@ -34,3 +34,13 @@ No spitting
 - Awareness of the primary control
 
 - Effortlessness and tennis ball, simple
+
+
+## Aligning three dimensions
+![pic](aligning-three-dimensions.png)
+A way of thinking articulation. A three-fold aiming:
+1. Air speed
+2. Tongue action
+3. Lip precision entering
+4. Listening
+5. Audiation  
