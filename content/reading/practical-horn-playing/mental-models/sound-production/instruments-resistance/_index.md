@@ -50,3 +50,23 @@ Leaning
 Expanding instrument's walls, blowing to the end of the instrument
 
 The different levels of resistance feel like different "depths of the instrument"
+
+## Resistance and leaning
+Elastic resistance
+Softening resistance
+Getting acquainted with the resistence
+
+## Vertical geografi/topografi/examination of the depths
+“dybde” av motstand
+Og kjennskap til dybde/topografi
+
+
+## Senstivity to the instrument’s resistance
+
+Myk kontakt med motstanden. We don’t want to overblow or underblow and it’s important to be playing the instrument that you have and be sensitive to the resistance. Playing your own horn
+
+- Evening out resistance
+- “Carrying air”
+
+- Not overblowing: Nudging air intensity
+- Overblowing and under-blowing. And their coexistance. Different fingerings, different blowing requirements
