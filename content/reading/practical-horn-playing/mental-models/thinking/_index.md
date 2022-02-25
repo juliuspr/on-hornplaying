@@ -14,3 +14,8 @@ How we think about thinking affects how we think (confused?).
 - Vital
 - Awake
 (Anthony Marwood)
+
+## Metacognition
+- Thinking about your own thinking
+- Being aware of your own thinking
+- Being aware of whether or not you are audiating

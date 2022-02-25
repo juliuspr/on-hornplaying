@@ -105,3 +105,40 @@ Repertoire of things
 Bakhtin's Act
 
 Heidegger's Being-in-the-world and Zeughaftigkeit
+
+## Perception
+
+### Seeing
+- Reading music
+- Seeing conductor
+- Seeing audience
+- Seeing other musicians
+
+- Perceiving the instrument. Blowing technique is dependent on the equipment:
+  - Mouthpice with small/large bore
+  - Instrument with much/little resistance
+  - Difference in resistance on different fingerings
+- Kinesthetic awareness - Awareness of yourself
+- Proprioception. Awareness of your psychomotorical state
+- Meta-cognition
+
+Repertoire of stuffs
+
+
+### On listening/perceiving
+
+- Whom to listen to?
+- How to listen to yourself?
+- Is listening the same as audiation?
+- Listen to what?
+	•	Intonation
+	•	Rhythm/precision
+	•	Timing
+	•	Harmony
+	•	Melody
+
+Or are these parts of audiation?
+
+- Neighbour? Principal? Conductor?
+- Listening to yourself. Or should this be audiating? Can you only listen to the room?
+- Listening to the room
