@@ -1,5 +1,5 @@
 ---
-title: Play
+title: Practical
 view: strategy-overview
 weight: 20
 params:
