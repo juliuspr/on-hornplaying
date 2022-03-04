@@ -9,7 +9,7 @@ What is this thing called horn playing? The answer might seem obvious; according
 
 [^ragin]: Constructing Social Research. Charles C. Ragin (1994)
 
-We seem to know what horn playing is because we are exposed to so much of it (paraphrase Ragin). But horn playing is a different thing to different people.
+We seem to know what horn playing is either (1) because we are exposed to so much of it or (2) we have a preconception about it. But horn playing is a different thing to different people.
 
 In this part we will:
 
@@ -22,17 +22,18 @@ In this part we will:
 
 Along the way, we'll be cautious about:
 - We tend to oversimplify: It's easy to commit to one view at the expense of others.
-- Certain characteristics of views present challenges for a constructive discussion
 - Each view has its own logic, which we will investigate
-- be mindful of the fact that descriptions construct "representations" of social phenomena, while being entangled inside the phenomena is an enacted, embodied, lived act. Said differently: we will distinguish between the 3rd-person and the 1st-person outlook on the world and its phenomena.
+- tensions between the different logics present challenges for a constructive discussion
+- being mindful of the fact that descriptions construct "representations" of social phenomena, while being entangled inside the phenomena is an enacted, embodied, lived act. Said differently: we will distinguish between the 3rd-person and the 1st-person outlook on the world and its phenomena.
 
 
 The starting point for the following discussion is this: Horn Playing is a social, cultural and historical phenomenon. As such it is a human practice that is
 - embedded in and gives life to the world of thing (physical)
 - enacts the conceptual, cognitive and emotional world
-- steered by value systems, cultural practices
+- steered by value systems, cultural practices, expectations
 
-All of the above is in constant interaction.
+Since we define Horn Playing as a practice, we will investigate how it differ, and how it is similar, to other practices.
+
 
 Most of the perspectives are not exclusive to horn playing. Similar ideas are present in the broader context of music making. I take horn playing as an entry point.
 
