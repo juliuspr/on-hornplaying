@@ -10,5 +10,6 @@ When we talk about profession we talk about
 - mastering a certain craft
 - professional standards and expectations
 - professional ethics
+- labor laws, money, organisation forms 
 
 ## Tensions with other metaphors
