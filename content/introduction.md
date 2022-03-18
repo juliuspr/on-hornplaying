@@ -2,22 +2,51 @@
 title: Preface
 ---
 
-"On Horn Playing" is a knowledge base for anyone interested in the question: what is this thing we call horn playing?
+"On Horn Playing" addresses the question: what is this thing called horn playing?
 
-The knowledge base is divided into three parts:
+To do so, we look at horn playing from three perspectives:
 
-- Practical: playing/creating/imagining,
-- Conceptual: reading/theorizing/understanding/conceptual
-- Cultural: listening/participating/cultural
+- Practical
+- Conceptual
+- Cultural
 
-Horn playing is a complex phenomenon. Its practical, conceptual and cultural sides are deeply intertwined. In fact, they are just three different lenses of looking at the same phenomenon - horn playing.
+"Traditional" literature on horn is primarily concerned with its practical side [^overview-horn-literature]. How do I hold the instrument? How do I play the high notes? How (much) do I practice?
 
-"Traditional" literature on horn is mostly concerned with its practical side. How do I hold the instrument? How (much) do I practice? How do I play the high notes? What's the best routine? But what is "practical" to begin with? Just by writing about these topics we develop a conceptual understanding. The practical and conceptual are further embedded in our cultures and practices. For example, the language we speak influences how we think about a particular topic. How we think affects how we act, and vice versa, which then becomes culture.
+[^overview-horn-literature]: Horn literature survey. Types of literature: tutorials, guidebooks, basics.
+
+But by discussing these topics we theorize. We develop a conceptual understanding. The practical and conceptual are thus intertwined.
+
+The practical and the conceptual are furthermore embedded in cultures. Participating in a culture shapes how we do things and what assumptions underlie what we do. Culture thus shapes its practices. But practices also shape cultures in return.
+
+
+How we think affects how we act. And vice versa. But we do not act and think in a vacuum. Thus how we act and think is cultural.
+
+A central assumption of this text is that, while we can bracket out some perspectives, horn playing is always an interplay of all three. This complexity makes horn playing a fascinating subject to study.
+
+
+We will thus look at the three sides both in isolation and how they interact with one another.
+
+
+For example, the language we speak influences how we think about a particular topic. How we think affects how we act, and vice versa, which then becomes culture.
+
+
+
+
+- Horn playing is a complex phenomenon.
+- Its practical, conceptual and cultural sides are deeply intertwined
+
+
 
 So the seemingly simple "practical" questions may not be as trivial as they might seem. This is the main goals of this website:
 
 - acknowledge the three parts
 - investigate them in depth
+
+- Practical: playing/creating/imagining,
+- Conceptual: reading/theorizing/understanding/conceptual/language/philosophy
+- Cultural: listening/participating/
+
+
 
 ## What kind of investigation is this?
 

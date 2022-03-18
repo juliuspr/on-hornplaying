@@ -24,3 +24,5 @@ Constructivist vs cognitivist learning theories
 ## On Interpretation
 
 No such thing as no interpretation - only unrefined, uninformed, dull. (?)
+
+## Thinking Music

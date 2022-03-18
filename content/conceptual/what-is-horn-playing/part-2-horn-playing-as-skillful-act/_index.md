@@ -142,3 +142,9 @@ Or are these parts of audiation?
 - Neighbour? Principal? Conductor?
 - Listening to yourself. Or should this be audiating? Can you only listen to the room?
 - Listening to the room
+
+
+
+## Playing characters
+
+- innlevelse in the literature
