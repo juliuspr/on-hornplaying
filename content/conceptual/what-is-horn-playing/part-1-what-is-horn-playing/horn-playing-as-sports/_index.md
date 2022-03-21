@@ -43,3 +43,8 @@ and
 > QUOTE from the sports book (Belfrage?)
 
 Viewing horn playing as sports comes into tension with "idealistic" views. By "idealistic" I refer to the views that lean towards idealistic ontology: there is a world of ideas separate from the physical world. It is in this world of ideas that horn playing lives.
+
+
+## Being a top athlete vs being in shape
+
+## Closed skills vs open-skills
