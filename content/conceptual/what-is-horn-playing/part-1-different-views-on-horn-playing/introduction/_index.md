@@ -84,6 +84,10 @@ So the seemingly simple "practical" questions may not be as trivial as they migh
 - Cultural: listening/participating/
 
 
+## Materialist vs idealist accounts
+
+## Cognitivist vs Sociocultural accounts
+
 
 ## What kind of investigation is this?
 
