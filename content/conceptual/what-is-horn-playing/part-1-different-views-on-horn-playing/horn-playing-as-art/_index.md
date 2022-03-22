@@ -27,3 +27,11 @@ Since there are many accounts of what art is, it depends on which conception we 
 ## Art and culture
 
 ## Live performance arts: here and now - arts that build up over time and are possible to develop
+
+
+## "Vision and artistry"
+
+Guarino 2015
+
+
+## Horn Playing as an Independent Art vs a cog in the machinery

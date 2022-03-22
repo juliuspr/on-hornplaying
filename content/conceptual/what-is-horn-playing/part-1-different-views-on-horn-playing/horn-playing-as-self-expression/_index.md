@@ -1,3 +1,3 @@
 ---
-title: Horn Playing as Self Expression
+title: Horn Playing as (Self-)Expression
 ---

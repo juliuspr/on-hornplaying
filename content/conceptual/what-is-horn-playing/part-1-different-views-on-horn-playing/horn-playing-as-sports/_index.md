@@ -48,3 +48,10 @@ Viewing horn playing as sports comes into tension with "idealistic" views. By "i
 ## Being a top athlete vs being in shape
 
 ## Closed skills vs open-skills
+
+
+## Similar fields
+
+Guarino (2015) [^guarino-2015]
+
+[^guarino-2015] "Is Dance a Sport?: A Twenty-First Century Debate"

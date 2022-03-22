@@ -8,5 +8,3 @@ params:
   no_tags: true
   no_date: true
 ---
-
-This collection of essays asks a basic question: What is Horn Playing?

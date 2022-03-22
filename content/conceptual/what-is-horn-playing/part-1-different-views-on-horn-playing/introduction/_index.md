@@ -2,8 +2,9 @@
 title: Introduction
 weight: 1
 ---
+This collection of essays asks a basic question: What is this thing called horn playing?
 
-What is this thing called horn playing? The answer might seem obvious; accordingly, the question irrelevant. However:
+The answer might seem obvious; accordingly, the question irrelevant. However:
 
 > Too often we take for granted the things that require the most explanation. After all, it's easier to assume we know what something means than it is to explain or define it. [^ragin]
 
