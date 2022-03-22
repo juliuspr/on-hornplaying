@@ -1,5 +1,5 @@
 ---
-title: The Horn Player's Reader
+title: 📖 The Horn Player's Reader
 weight: 30
 view: list-essays
 params:

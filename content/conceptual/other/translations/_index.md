@@ -1,3 +1,3 @@
 ---
-title: Translations
+title: 📚 Translations
 ---
