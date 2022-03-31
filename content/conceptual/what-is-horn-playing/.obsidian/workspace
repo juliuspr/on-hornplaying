@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "b636f242646641e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "3fefd2cd13a3ecbe",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "part-1-different-views-on-horn-playing/horn-playing-as-language/_index.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fd254d74b874a5a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b1a4c18b827fbb8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a9015b657f7d1ee",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "00c824c39a76620e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 394
+  },
+  "right": {
+    "id": "bb2c2ecf4052811e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d157376d14153b4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79ac6ea57745cce5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "part-1-different-views-on-horn-playing/horn-playing-as-language/_index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3fefd2cd13a3ecbe",
+  "lastOpenFiles": [
+    "part-1-different-views-on-horn-playing/horn-playing-as-language/_index.md",
+    "part-1-different-views-on-horn-playing/horn-playing-as-sound-production/_index.md",
+    "part-1-different-views-on-horn-playing/horn-playing-as-tradition/_index.md",
+    "part-1-different-views-on-horn-playing/horn-playing-as-cognition/_index.md.md",
+    "part-1-different-views-on-horn-playing/introduction/_index.md",
+    "part-1-different-views-on-horn-playing/_index.md",
+    "part-1-different-views-on-horn-playing/horn-playing-as-movement/_index.md",
+    "part-1-different-views-on-horn-playing/horn-playing-as-communicating-with-the-audience/_index.md",
+    "part-1-different-views-on-horn-playing/horn-playing-as-sports/_index.md",
+    "part-1-different-views-on-horn-playing/horn-playing-as-a-business/_index.md.md"
+  ]
+}
