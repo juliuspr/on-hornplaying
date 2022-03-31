@@ -1,6 +1,7 @@
 ---
 title: Horn Playing as a Hobby
 ---
+# Horn Playing as a Hobby
 
 The notion of Horn Playing as a Hobby relates to many of the other analogies.
 

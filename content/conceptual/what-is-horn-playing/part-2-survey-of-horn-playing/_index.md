@@ -5,10 +5,15 @@ params:
   pattern: 4
 ---
 
-The Horn Call is a trade journal published by the International Horn Society. I was interested in finding the most prevalent topics.
+In Part 1 we looked at the different metaphors that illuminate what horn playing can be seen as. In Part 2 we will look at the topics that the horn-players' community is concerned with. Part 2 surveys the keywords used in categorizing articles in the The Horn Call, a trade journal published by the International Horn Society.
 
-I have made an overview of the keywords The Horn Call uses to categorize the articles. I have grouped the keywords into XXX overarching categories.
+
+I have grouped the keywords into XXX overarching categories.
 
 Word-cloud?
 
-First, an analysis of the themes in The Horn Call.
+An analysis of the themes in The Horn Call.
+- Why? Relevance?
+
+- Research question?
+  - 

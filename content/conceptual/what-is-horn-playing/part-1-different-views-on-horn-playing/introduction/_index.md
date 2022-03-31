@@ -21,10 +21,13 @@ In this part we will:
   - Can the different views co-exist?
   - What conflicts arise when we change the perspectives?
 
+## Prerequisites
+
 Along the way, we'll be cautious about:
 - We tend to oversimplify: It's easy to commit to one view at the expense of others.
 - Each view has its own logic
 - tensions between the different logics present challenges for a constructive discussion
+- we need a particular attitude
 
 In this part we will describe the different views. These descriptions construct "representations" of the phenomena we are describing. "Representations" are different things the phenomena themselves, from their essence.
 
@@ -85,6 +88,13 @@ So the seemingly simple "practical" questions may not be as trivial as they migh
 - Cultural: listening/participating/
 
 
+## On Certainty
+
+- See Maturana&Varela 1991
+- Negative certainties
+- an attitude 
+
+
 ## Materialist vs idealist accounts
 
 ## Cognitivist vs Sociocultural accounts
@@ -120,6 +130,11 @@ The Reading part is also a very practical endeavour. Reading itself is not some 
 
 
 
+## What is the goal?
+
+To draw a map of the variety of problems.
+
+
 
 ## Goal
 
@@ -127,3 +142,6 @@ An account that is
 - Vygotsky/Engeström - Activity theory
 - Husserl/Heidegger/Morleau-Ponty/Dreyfus - Being-in-the-world, tool analysis
 - Latour - sociomaterial
+- Maturana/Varela
+
+
