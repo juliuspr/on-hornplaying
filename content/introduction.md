@@ -2,7 +2,7 @@
 title: Preface
 ---
 
-"On Horn Playing" illuminates the question: what is horn playing? To do so, we look at horn playing from three perspectives:
+"On Horn Playing" is a set of resources that presents horn playing from three perspectives:
 
 - Practical
 - Conceptual
@@ -14,20 +14,16 @@ title: Preface
 
 But by discussing the practical topics we theorize. We develop a conceptual understanding. The practical and conceptual are thus intertwined.
 
-The practical and the conceptual are furthermore embedded in cultures. Participating in a culture shapes how we do things and what assumptions underlie what we do. Culture thus shapes its practices. But practices also shape cultures in return.
+The practical and the conceptual are furthermore embedded in cultures. What we do and how we understand depends on where and when we live. Our culture thus shapes our practices. But practices also shape cultures in return [^rephrase].
 
+[^rephrase]: How we think affects how we act. And vice versa. How we think and act is shaped by our culture(s). And the culture(s) are shaped by how we think and act.
 
-How we think affects how we act. And vice versa. But we do not act and think in a vacuum. Thus how we act and think is cultural.
+The interaction between the practical, the conceptual and the cultural is at the core of these resources. Whenever you look at one part, remember the others. Which brings us to the second core idea behind these resources: 1st person perspective.
 
+## Overview of the resources
 
-## Overview. How is it structured? How to use the resources?
+The Practical part mostly consists of sheet music. You can play the exercises, etudes etc.
 
-The Playing part is the most practical: the resources are meant for practical engagement.
+The Conceptual part provides context to the Practical. This part spans from the nitty-gritty details (like strategies for practicing and the mental models) to asking "What is Horn Playing?". Asking such a basic questions will take us through a fascinating world of ideas surrounding horn playing.
 
-The Reading part connects the practical and the conceptual. On the one side we have
-- the description of skills that define a horn player
-- a repository of practice strategies
-
-On the other, we discuss the ontology and epistemology of those skills and strategies.
-
-The Listening/Participating part is about being in the culture.
+The Cultural part has two dimensions. On the one hand, we zoom out and look at ourselves "from the outside". On the other hand, it is what gives horn playing its meaning. It is something that is "close to the bone"

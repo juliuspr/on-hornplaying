@@ -4,6 +4,8 @@ weight: 1
 ---
 This collection of essays asks a basic question: What is this thing called horn playing?
 
+By exploring the different underlying logics and tensions between them we will discover interesting philosophical issues.
+
 The answer might seem obvious; accordingly, the question irrelevant. However:
 
 > Too often we take for granted the things that require the most explanation. After all, it's easier to assume we know what something means than it is to explain or define it. [^ragin]
@@ -92,7 +94,7 @@ So the seemingly simple "practical" questions may not be as trivial as they migh
 
 - See Maturana&Varela 1991
 - Negative certainties
-- an attitude 
+- an attitude
 
 
 ## Materialist vs idealist accounts
@@ -143,5 +145,3 @@ An account that is
 - Husserl/Heidegger/Morleau-Ponty/Dreyfus - Being-in-the-world, tool analysis
 - Latour - sociomaterial
 - Maturana/Varela
-
-
