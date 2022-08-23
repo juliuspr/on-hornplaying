@@ -10,3 +10,7 @@ A discussion of (complex, contravertial) ideas in horn playing
 ## Challenges
 
 Discussing ideas is difficult. In horn pedagogy we have a rather limited number of concepts that we tend to load with a lot of different meanings. Those meanings sometimes conflict.
+
+
+## Proper technique
+Harnum: the Practice of Practice p.199 (bottom)

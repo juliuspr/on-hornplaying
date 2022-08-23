@@ -4,6 +4,21 @@ description: Perspectives on Horn playing
 view: list-essays
 ---
 
+## A taxonomy of metaphors to highlight the various parts of horn playing
+
+Components of horn playing
+
+### Dimensions of the taxonomy
+
+- ontological
+- epistemological
+- phenomenological
+
+
+
+
+
+
 ## What is the relationship of the Metaphors and the thing that they illuminate?
 
 - mixins, rather than inheritance
@@ -11,7 +26,7 @@ view: list-essays
 
 ## Plan
 
-- not hard boundaries, but overlapping layers 
+- not hard boundaries, but overlapping layers
 
 ## Dimensions
 - ontological: idealist (language, disembodied) / materialist (sports, )

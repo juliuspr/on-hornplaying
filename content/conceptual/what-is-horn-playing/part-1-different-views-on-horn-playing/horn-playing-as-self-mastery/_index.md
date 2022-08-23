@@ -7,3 +7,5 @@ title: Horn Playing as Self-Mastery
 
 
 - being your own teacher
+
+## A spiritual practice

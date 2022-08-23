@@ -26,3 +26,8 @@ Whistle embouchure, plystre
 Rulle inn leppene
 
 Pressure and support on the lower teeth for stability in the whole range
+- Embouchure support
+- Resting - mental model
+- On Playing Convincingly
+
+- Forming the embouchure. Developing habit. -> goal sound with core, centered
