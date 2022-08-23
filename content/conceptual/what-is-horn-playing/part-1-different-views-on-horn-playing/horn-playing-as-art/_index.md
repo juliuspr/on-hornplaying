@@ -2,7 +2,15 @@
 title: Horn Playing as Art
 ---
 
-The Art metaphor is the most difficult. Other metaphors (sports, profession, language) offer relatively stable references. They help illuminate the parts of the phenomenon of horn playing.
+Describing Horn Playing as Art is the most challenging. Other metaphors offer relatively stable references (sports, profession, language). They highlight important aspects of the phenomenon "horn playing".
+
+Art is what people think art is (Music is what people in a particular place think music is).
+
+- easy to get circular
+- broad field of ideas
+
+
+They help illuminate the parts of the phenomenon of horn playing.
 
 The Art metaphor is problematic because it is not a stable concept. The fluid concept to be defined here is horn playing. But we could use horn playing as an example to define what art is. And vice versa. Thus it is easy to get into a circular argumentation.
 
