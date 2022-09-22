@@ -10,3 +10,7 @@ In this essay we will put together several ideas into a mental model.
 
 
 - conception "pulls" action. Perception "pulls" conception, as construction is only possible from the available stuff
+
+- The problem is that this triple helix gets squashed into a single or double one. It is more productive to think that Sound Production is not Audiation.
+
+Listening to the actual sound, letting the sound develop

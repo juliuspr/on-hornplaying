@@ -1,5 +1,5 @@
 ---
-title: What is a Mental Model?
+title: "Introduction: What is a Mental Model?"
 draft: true
 weight: 1
 ---
@@ -14,6 +14,20 @@ In this chapter you will:
 ## What is a mental model?
 
 Mental models are the structures of understanding
+
+> We don’t see things as they are, we see them as we are. - Author?
+
+-	A lot of information, often conflicting.
+-	We create complicated and unwieldy mental models that at some point get in our way.
+
+Mental models will help with:
+- Feedback literacy
+- Learning literacy
+
+This is a guide, but also a troubleshooting manual, a structure to help receive feedback
+
+- Sequence. Thought sequence
+
 
 
 ## Why do we need them?

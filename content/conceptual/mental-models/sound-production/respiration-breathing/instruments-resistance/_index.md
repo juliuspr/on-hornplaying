@@ -5,6 +5,8 @@ draft: true
 
 > Respect the tube! ???? VerMuelen
 
+
+
 Horn's resistance is an overlooked topic.
 
 Coming to terms with the resistance
@@ -35,6 +37,8 @@ Respecting the tube
 
 
 ## Leaning. Trust the horn!
+
+Like a wall
 
 ## Literature and other sources
 

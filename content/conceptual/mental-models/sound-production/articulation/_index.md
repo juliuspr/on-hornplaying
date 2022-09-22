@@ -41,6 +41,6 @@ No spitting
 A way of thinking articulation. A three-fold aiming:
 1. Air speed
 2. Tongue action
-3. Lip precision entering
+3. Lip precision centering
 4. Listening
 5. Audiation  

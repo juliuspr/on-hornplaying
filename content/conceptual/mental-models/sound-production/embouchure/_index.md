@@ -31,3 +31,7 @@ Pressure and support on the lower teeth for stability in the whole range
 - On Playing Convincingly
 
 - Forming the embouchure. Developing habit. -> goal sound with core, centered
+
+
+- Cushioning
+- Centering

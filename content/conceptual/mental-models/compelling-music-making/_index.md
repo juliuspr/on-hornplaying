@@ -1,5 +1,6 @@
 ---
-title: Thinking
+title: Compelling Playing
+draft: true
 ---
 
 Mental models for thinking about thinking?
