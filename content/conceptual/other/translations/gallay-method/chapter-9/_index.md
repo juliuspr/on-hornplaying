@@ -1,7 +1,7 @@
 ---
-title: "Chapter 1: On the position of the body"
+title: "Chapter 9: On articulation"
 view: translations
-weight: 2
+weight: 4
 ---
 <!--
 {{< lang "en" />}}{{< lang />}}

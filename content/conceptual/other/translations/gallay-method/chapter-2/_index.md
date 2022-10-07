@@ -1,7 +1,7 @@
 ---
-title: "Chapter 1: On the position of the body"
+title: "Chapter 2: On the proportions of the mouthpiece"
 view: translations
-weight: 2
+weight: 3
 ---
 <!--
 {{< lang "en" />}}{{< lang />}}

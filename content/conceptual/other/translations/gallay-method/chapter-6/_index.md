@@ -1,7 +1,7 @@
 ---
-title: "Chapter 1: On the position of the body"
+title: "Chapter 6: Various recommendations to students"
 view: translations
-weight: 2
+weight: 4
 ---
 <!--
 {{< lang "en" />}}{{< lang />}}
