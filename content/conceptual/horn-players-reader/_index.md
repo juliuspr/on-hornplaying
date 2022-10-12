@@ -2,6 +2,7 @@
 title: 📖 The Horn Player's Reader
 weight: 30
 view: list-essays
+draft: true
 params:
   pattern: 3
   no_tags: true

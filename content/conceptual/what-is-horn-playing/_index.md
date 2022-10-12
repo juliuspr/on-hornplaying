@@ -10,4 +10,6 @@ params:
   no_date: true
 ---
 
-THIS IS A VERY ROUGH DRAFT
+"What is Horn Playing?" is an essay that looks at horn playing from several different angles. Is it an art, or is it more akin to sports? Is it a profession, or a hobby?
+
+[You can read a very rough draft here.](./draft-what-is-horn-playing.docx)

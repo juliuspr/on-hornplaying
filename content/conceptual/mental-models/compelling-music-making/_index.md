@@ -1,5 +1,5 @@
 ---
-title: Compelling Playing
+title: Compelling Music Making
 draft: true
 ---
 
