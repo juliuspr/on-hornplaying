@@ -1,7 +1,7 @@
 ---
 title: "Chapter 4: On the equality of sounds and their accuracy"
 view: translations
-weight: 4
+weight: 5
 ---
 <!--
 {{< lang "en" />}}{{< lang />}}

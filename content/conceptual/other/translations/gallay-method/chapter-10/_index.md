@@ -1,7 +1,7 @@
 ---
-title: "Chapter 5: On the range of the first horn"
+title: "Chapter 10: Broken Chords, their use"
 view: translations
-weight: 6
+weight: 11
 ---
 <!--
 {{< lang "en" />}}{{< lang />}}

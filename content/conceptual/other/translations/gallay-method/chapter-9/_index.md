@@ -1,7 +1,7 @@
 ---
 title: "Chapter 9: On articulation"
 view: translations
-weight: 4
+weight: 10
 ---
 <!--
 {{< lang "en" />}}{{< lang />}}

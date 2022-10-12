@@ -1,7 +1,7 @@
 ---
 title: "Chapter 8: On trill"
 view: translations
-weight: 4
+weight: 9
 ---
 <!--
 {{< lang "en" />}}{{< lang />}}

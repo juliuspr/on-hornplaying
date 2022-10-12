@@ -1,7 +1,7 @@
 ---
 title: "Chapter 7: First exercises"
 view: translations
-weight: 4
+weight: 8
 ---
 <!--
 {{< lang "en" />}}{{< lang />}}
