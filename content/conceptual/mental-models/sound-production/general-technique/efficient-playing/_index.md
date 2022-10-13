@@ -2,6 +2,7 @@
 title: Efficient Playing
 ---
 
+Goal: efficiently produce as much beautiful tone as possible with as little effort as possible in every dynamic
 
 ## The basic horn technique
 

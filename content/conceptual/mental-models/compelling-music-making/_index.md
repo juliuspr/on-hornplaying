@@ -1,5 +1,5 @@
 ---
-title: Compelling Music Making
+title: 📖 Compelling Music Making
 draft: true
 ---
 

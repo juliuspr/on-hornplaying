@@ -1,5 +1,5 @@
 ---
-title: Psychology
+title: 📖 Psychology
 weight: 30
 view: list-essays
 draft: true
