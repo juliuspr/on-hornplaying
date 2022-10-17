@@ -1,5 +1,6 @@
 ---
 title: "Hitting, buzzing or catching a note?"
+draft: true
 ---
 
 - Hitting

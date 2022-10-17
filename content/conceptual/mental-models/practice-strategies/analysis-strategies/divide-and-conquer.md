@@ -1,6 +1,5 @@
 ---
-title: Divide and Conquer
+title: "Divide and Conquer"
 id: divide-and-conquer
+weight: 1
 ---
-
-## Isolating challenges
