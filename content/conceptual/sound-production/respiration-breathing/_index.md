@@ -1,6 +1,5 @@
 ---
 title: Air
-draft: true
 view: list-essays
 weight: 2
 ---

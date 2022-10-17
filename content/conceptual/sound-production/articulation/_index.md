@@ -1,6 +1,5 @@
 ---
 title: Articulation
-draft: true
 ---
 
 Synonyms: diction
