@@ -2,14 +2,13 @@
 title: 📖 The Horn Player's Reader
 weight: 30
 view: list-essays
-draft: true
 params:
   pattern: 3
   no_tags: true
   no_date: true
 ---
 
-Brilliant texts often drown in the abundance of information or because they are out-of-print. I have collected book chapters and articles that deserve highlighting. For now these are just references. 
+Brilliant texts often drown in the abundance of information or because they are out-of-print. I have collected book chapters and articles that deserve highlighting. For now these are just references.
 
 
 ## TABLE OF CONTENTS

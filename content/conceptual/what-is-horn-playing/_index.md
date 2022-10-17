@@ -1,9 +1,8 @@
 ---
 title: What is Horn Playing?
 linkTitle: 📖 What is Horn Playing?
-weight: 10
+weight: 1
 view: strategy-overview
-draft: true
 params:  
   pattern: 1
   no_tags: true

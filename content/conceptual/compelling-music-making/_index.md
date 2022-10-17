@@ -1,6 +1,7 @@
 ---
-title: 📖 Compelling Music Making
-draft: true
+linkTitle: "🎼 Elements: Compelling Music Making"
+title: "Elements of Horn Playing: Compelling Music Making"
+weight: 30
 ---
 
 Mental models for thinking about thinking?

@@ -1,9 +1,8 @@
 ---
-title: Practice Strategies
-title: 📖 Practice Strategies
+linkTitle: "♟ Elements: Practice Strategies"
+title: "Elements of Horn Playing: Practice Strategies"
 view: strategy-overview
 weight: 20
-draft: true
 params:
   pattern: 2
 ---
