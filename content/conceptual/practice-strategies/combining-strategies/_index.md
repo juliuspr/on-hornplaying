@@ -1,6 +1,7 @@
 ---
 title: Combining Strategies
 view: list-essays
+weight: 60
 params:
   no_tags: true
   no_date: true
