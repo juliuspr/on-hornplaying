@@ -1,6 +1,7 @@
 ---
 title: "Structure of Sound: Core"
 draft: true
+weight: 20
 ---
 
 

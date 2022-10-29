@@ -1,4 +1,6 @@
 ---
 title: Note shapes
-draft: true
+weight: 40
 ---
+
+![shpaes](./shapes.png)

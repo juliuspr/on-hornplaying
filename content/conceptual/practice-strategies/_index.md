@@ -6,5 +6,3 @@ weight: 20
 params:
   pattern: 2
 ---
-
-- Attention-keeping/accuracy/precision strategies

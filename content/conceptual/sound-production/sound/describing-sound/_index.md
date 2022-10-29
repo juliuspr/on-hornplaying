@@ -1,10 +1,45 @@
 ---
-title: Describing sound
-draft: true
+title: Beautiful tone
+linkTitle: Beautiful tone
 weight: 1
 ---
 
-To describe sound well you need to develop your listening skills. Develop your sensitivity to the nuance in the sound colors of great players of various instruments.
+> The most important quality of a horn player is his tone, so spare no effort in constantly striving for a beautiful, full, **characteristic** tone. [^farkas]
 
+[^farkas]: Philip Fasrkas
 
-## Orchestral sound
+## Describing sound
+
+Learning to describe tone quality can help you to improve it. Listen to players you like and try to describe their sound. Learn to distinguish nuances of color, articulation, note shapes etc. You can then emulate that sound by [forming your own mental conception of an ideal sound]({{< relref "../audiation">}}).
+
+Here are some ideas to describe the timbre of tone.
+
+## Adjectives for "good" sound
+
+- Overtone-rich
+- Broad
+- Warm
+- Full
+- Rich
+- Open
+- Projecting
+- Dark
+- Powerful
+- Healthy
+- Stable
+- With core
+- Centered
+- Focused
+- Compact
+- Varied
+- Colorful
+
+## Adjectives for "suboptimal" sound
+
+- Weak
+- Hard
+- Narrow
+
+## Differences in ideal sound
+
+Different cultures have different sound ideals. While the ideals have become more similar recently, different orchestras still have different preferences. The ability to adapt your sound to a particular context is important. You might also hear people talking about an "orchestral sound", "chamber music sound" etc. Playing in different context will affect which of the adjectives from above you will put more emphasis on.

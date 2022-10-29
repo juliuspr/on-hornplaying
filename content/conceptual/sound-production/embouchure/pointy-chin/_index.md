@@ -1,5 +1,5 @@
 ---
-title: Pointy Chin
+title: "Chin: Pointy and Flat"
 draft: true
 ---
 
