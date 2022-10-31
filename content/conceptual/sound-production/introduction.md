@@ -1,15 +1,16 @@
 ---
-title: "Introduction: What is a Mental Model?"
+title: "Introduction"
 draft: true
 weight: 1
 ---
 
-In this chapter you will:
+This book is about our mental models, when we go about producing sounds on the horn. In this chapter we will:
 
-- Introduce the idea of a mental model.
-- Discuss why they are useful
-- They are always already present.
-- How to think is as important as how to do
+- Present the idea of a mental model
+- Discuss why we need to investigate mental models
+
+
+TL;DR. We need to investigate our mental models, because they affect how we do things. The better our mental models, the better we practice and performance will be. Becoming aware of our mental models will help to deal with feedback and troubleshoot issues that may arise.
 
 ## What is a mental model?
 
@@ -20,19 +21,22 @@ Mental models are the structures of understanding
 -	A lot of information, often conflicting.
 -	We create complicated and unwieldy mental models that at some point get in our way.
 
+This is a guide, but also a troubleshooting manual, a structure to help receive feedback
+
+- Sequence. Thought sequence
+- How to think is as important as how to do
+
+
+## Why do we need to investigate them?
+- Absence of good ones leads to confusion.
+- Good ones add clarity
+- They are always already present
+
+
 Mental models will help with:
 - Feedback literacy
 - Learning literacy
 
-This is a guide, but also a troubleshooting manual, a structure to help receive feedback
-
-- Sequence. Thought sequence
-
-
-
-## Why do we need them?
-- Absence of good ones leads to confusion.
-- Good ones add clarity
 
 ## What is a good mental model?
 - Makes sense

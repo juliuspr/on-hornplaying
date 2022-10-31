@@ -4,7 +4,7 @@ draft: true
 weight: 20
 ---
 
-Audiation[^gordon] is a concise way of talking about a mental "image" of sound. You can audiate (=form a mental conception) of tone quality, pitch, articulation, phrasing and other aspects.
+Audiation[^gordon] refers to formation of a mental "image" of sound. You can audiate (=form a mental conception of) tone quality, pitch, articulation, phrasing and other aspects.
 
 [^gordon]: The term Audiation was coined by Edwin E. Gordon in his Music Learning Theory
 

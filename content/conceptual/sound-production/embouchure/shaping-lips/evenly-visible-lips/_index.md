@@ -1,5 +1,5 @@
 ---
-title: Both Lips Evenly Visible
+title: Both Lips Visible
 draft: true
 ---
 

@@ -3,14 +3,13 @@ title: Creating Air Pressure
 weight: 5
 ---
 
-Air escapes the lungs when the pressure inside lungs (your chest) is greater than outside.
+Air flow from the lungs is created when the pressure inside lungs (your chest) is greater than outside.
 There are two ways to create this pressure.
 
-1. When you fill the lungs with air and sigh, the air comes out by itself. The pressure is created by due to gravity (the weight of your body). This is very effortless 
-2.
+1. Fill the lungs with air and sigh: the air will come out by itself. Gravity (the weight of your body) creates pressure inside your chest. Air escapes without effort on your part. See [Yawn and Sigh]({{< relref "yawn-and-sigh">}})
+2. If there is any air in your lungs, you can engage the muscles of your upper body to increase the pressure within your chest (thorax). This will also cause the air to escape. Engaging muscles requires some effort.
 
-1. Effortless, air comes out without effort, as long as you do not hold it
-2. Effort
+It is useful to be able to create pressure with both of these methods.
 
 
 

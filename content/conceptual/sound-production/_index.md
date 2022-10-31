@@ -1,6 +1,6 @@
 ---
 linkTitle: "📯 Elements: Producing Sounds"
 title: "Elements of Horn Playing: Producing Sounds"
-view: front-page
+view: producing-sounds
 weight: 2
 ---
