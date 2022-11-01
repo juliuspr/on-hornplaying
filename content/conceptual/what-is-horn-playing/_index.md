@@ -1,7 +1,7 @@
 ---
 title: What is Horn Playing?
-linkTitle: 📖 What is Horn Playing?
-weight: 1
+linkTitle: "❓ What is Horn Playing?"
+weight: 35
 view: strategy-overview
 params:  
   pattern: 1
