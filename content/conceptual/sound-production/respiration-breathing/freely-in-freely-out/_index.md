@@ -1,11 +1,12 @@
 ---
 title: Freely in, Freely out
+linkTitle: 🟢 Freely in, Freely out 
 weight: 1
 ---
 
 **Air should enter you lungs freely, without friction.** Avoid "sucking" the air in. If your inbreath is noisy, probably the air is not coming in as freely as it could.
 
-**On the way out, air should travel freely as well.** Avoid "pushing" or "forcing" the air out. Think thay you are [sighing]({{< relref "yawn-and-sigh">}}) when you breath out.
+**On the way out, air should travel freely as well.** Avoid "pushing" or "forcing" the air out. Think that you are [sighing]({{< relref "yawn-and-sigh">}}) when you breath out.
 
 
 ## Ideas for a relaxed breathing technique

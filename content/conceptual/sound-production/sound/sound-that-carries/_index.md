@@ -1,7 +1,7 @@
 ---
 title: "Projection: Sound that carries"
+title: "🟡 Projection: Sound that carries"
 weight: 30
-draft: true
 ---
 
 Full, round, carrying sound

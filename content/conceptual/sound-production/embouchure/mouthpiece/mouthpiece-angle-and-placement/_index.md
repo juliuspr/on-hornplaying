@@ -1,6 +1,6 @@
 ---
 title: Mouthpiece Angle and Placement
-draft: true
+linkTitle: 🔴 Mouthpiece Angle and Placement
 ---
 
 - Two-thirds on the upper lip

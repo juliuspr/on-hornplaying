@@ -1,14 +1,8 @@
 ---
-title: Air
+title: 🟡 Air
 view: list-essays
 weight: 2
 ---
-## Overview of the chapter
-
-- gain an overview of the different aspects of thinking about breathing
-
-## Blowing
-- sukk/leaning
 
 
 ## Air: in and out. Your lungs. Breathing & Blowing - a cycle
@@ -89,6 +83,3 @@ Vanishing time breathing exercise: shorter and shorter organized in-breaths. Qua
 - Inverse mouthpiece blowing pattern
 - Blow the phrase through the instrument
 - Breathing in with the hand
-
-
-## Long breath vs short breath

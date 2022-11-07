@@ -1,7 +1,9 @@
 ---
 title: Both Lips Visible
-draft: true
+linkTitle: 🔴 Both Lips Visible
+weight: 30
 ---
+
 
 
 

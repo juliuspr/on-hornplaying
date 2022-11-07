@@ -1,5 +1,6 @@
 ---
-title: On Time
+title: Timing
+weight: 10
 ---
 
 - metronome

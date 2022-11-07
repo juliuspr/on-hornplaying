@@ -1,4 +1,5 @@
 ---
-title: Precise timing
+title: Coordination
+linkTitle: 🔴 Coordination
 draft: true
 ---

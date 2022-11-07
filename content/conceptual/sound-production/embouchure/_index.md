@@ -1,5 +1,6 @@
 ---
 title: Embouchure
+linkTitle: 🟡 Embouchure
 weight: 3
 ---
 

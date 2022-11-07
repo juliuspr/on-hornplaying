@@ -48,6 +48,10 @@ Mental models will help with:
 
 
 ## Challenges of learning the horn
+
+Horn playing is simple, until it's not. 
+
+
 - Troubleshooting
 - Receiving feedback and making meaning of it and acting productively on it
 

@@ -1,17 +1,18 @@
 ---
 title: Instrument's Resistance
-weight: 40
+linkTitle: 🟢 Instrument's Resistance
+weight: 10
 ---
 
 > Respect the tube! William VerMeulen [^vermeulen]
 
-[^vermeulen]: This is one of Six Quick Fixes https://www.youtube.com/watch?v=sTkFCEm0IBA
+[^vermeulen]: This is one of VerMeulen's Six Quick Fixes https://www.youtube.com/watch?v=sTkFCEm0IBA
 
 A modern (valved) horn does not have constant resistance. Short fingerings have little resistance and a "free-blowing" feeling. Long fingerings have more resistance and a more constrained feeling [^different-models].
 
 [^different-models]: How different the resistance between fingerings will feel depends on a particular brand of horn you play (some popular models have big difference).
 
-You have to learn to deal with changing resistance. Developing this skill to will help you to:
+You have to learn to deal with resistance that changes as you change fingerings. Developing this skill to will help you to:
 
 - produce more even sound
 - improve your *piano* playing
@@ -40,86 +41,9 @@ Resistance will be the point where:
 Now, if you maintain the same intensity of the air stream and change to the F-side (higher resistance), you will notice that you are pushing against something. The feeling is more strenuous. You are overblowing. To find back to resistance:
 
 - pull back a bit
+- try to reproduce the same relaxed feeling and "sound" quality as you had on a shorter fingering with less resistance
 
 
+## Using resistance sensitivity
 
-
-
-
-- shock absorber (Støtdempere)
-- Being glued to resistance
-- Underblowing
-- Overblowing
-
-
-
-
-
-
-Anticipate the changes and prepare for new resistance level, like you prepare for a new pitch.
-
-
-
-
-
-Coming to terms with the resistance
-
-## The fear of falling (and trusting the resistance)
-Leaning
-
-
-Blind blowing
-
-Topology of the resistance
-
-
-
-
-Blowing blindly
-Loosing contact with the resistance and the ricochet.
-
-Even air stream??? Air column, air stream
-
-Respecting the tube
-
-## Fear of falling
-
-
-## Leaning. Trust the horn!
-
-Like a wall
-
-## Literature and other sources
-
-Notice how the instrument responds what you are doing - A feedback system
-
-Respecting the tube
-
-
-Blind Blowing
-
-Leaning
-
-Expanding instrument's walls, blowing to the end of the instrument
-
-The different levels of resistance feel like different "depths of the instrument"
-
-## Resistance and leaning
-Elastic resistance
-Softening resistance
-Getting acquainted with the resistence
-
-## Vertical geografi/topografi/examination of the depths
-“dybde” av motstand
-Og kjennskap til dybde/topografi
-
-
-## Senstivity to the instrument’s resistance
-
-Myk kontakt med motstanden. We don’t want to overblow or underblow and it’s important to be playing the instrument that you have and be sensitive to the resistance. Playing your own horn
-
-- Evening out resistance
-- “Carrying air”
-
-- Not overblowing: Nudging air intensity
-- Overblowing and under-blowing. And their coexistance. Different fingerings, different blowing requirements
+[See "Shock-absorber technique"]({{< relref "shock-absorber">}})

@@ -1,7 +1,6 @@
 ---
-title: Visualize lung capacity
-draft: true
-weight: 90
+title: 🟡 Visualize lung capacity
+weight: 10
 ---
 
 In daily life, we rarely fill up the lungs to the maximum capacity (maybe only when yawning). Employing everyday breathing, students commonly use only part of lungs' capacity when playing the horn. Here's an illustration:
@@ -20,7 +19,7 @@ In other words, we want to raise the range in which we operate from 30-60% up to
 
 ## But...
 
-You'll notice that the intensity of the air stream will decrease as you come closer to the "baseline". But you need to keep a steady sound... You will need to gradually transition from one type of blowing to the second. 
+You'll notice that the intensity of the air stream will decrease as you come closer to the "baseline". But you need to keep a steady sound... You will need to gradually transition from one type of blowing to the second.
 
 ## Ideas
 

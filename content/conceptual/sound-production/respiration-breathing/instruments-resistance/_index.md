@@ -1,6 +1,5 @@
 ---
-title: "Three Layers of Resistance"
-draft: true
+title: "🟢 Three Layers of Resistance"
 weight: 50
 ---
 
@@ -16,4 +15,4 @@ The throat and the mouth cavity should not (in general) constrict the air stream
 
 Embouchure resistance is where the sound is generated. We want to create [the lip vibration that is as healthy and rich as possible]({{< relref "healthy-buzz" >}}).
 
-Instrument's resistance (the combination of mouthpiece and horn) is the main focus of this chapter. Your goal is to [develop resistance sensitivity]({{< relref "resistance-sensitivity">}}).
+[Developing sensitivity to the instrument's resistance]({{< relref "resistance-sensitivity">}}) (the combination of mouthpiece and horn) is the main focus of the next chapter.
