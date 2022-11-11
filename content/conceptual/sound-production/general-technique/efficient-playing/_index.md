@@ -1,7 +1,7 @@
 ---
 title: Efficient Playing - 7 Principles
-linkTitle: 🟡 Efficient Playing - 7 Principles
 weight: 10
+status: in-progress
 ---
 
 In a nutshell, good horn technique is about efficiently producing as much [beautiful tone]({{< relref "beautiful-tone">}}) as possible with as little effort as possible.

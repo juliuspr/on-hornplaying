@@ -1,7 +1,7 @@
 ---
 title: "Audiation: imagining sound"
-linkTitle: "🟡 Audiation: imagining sound"
 weight: 20
+status: in-progress
 ---
 
 Audiation[^gordon] refers to formation of a mental "image" of sound. You can audiate (=form a mental conception of) tone quality, pitch, articulation, phrasing and other aspects.

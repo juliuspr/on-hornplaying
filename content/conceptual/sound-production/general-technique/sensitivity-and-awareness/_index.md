@@ -1,4 +1,7 @@
 ---
 title: Sensitivity and Awareness
-draft: true
+status: not-started
 ---
+
+- do not play mindlessly
+- experimenting mindset

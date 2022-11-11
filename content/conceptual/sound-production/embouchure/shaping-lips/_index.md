@@ -1,7 +1,7 @@
 ---
 title: Shaping the lips
-linkTitle: 🔴 Shaping the lips
 weight: 30
+status: not-started
 ---
 
 ## Structured Embouchure

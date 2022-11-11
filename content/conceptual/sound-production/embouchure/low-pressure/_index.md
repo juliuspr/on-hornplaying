@@ -1,6 +1,7 @@
 ---
-title: 🟡 Low Mouthpiece Pressure
+title: Low Mouthpiece Pressure
 weight: 15
+status: in-progress
 ---
 
 Keep the mouthpiece pressure to the minimum. This will help the lips to vibrate more freely.

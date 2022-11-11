@@ -1,6 +1,6 @@
 ---
-title: Mouthpiece
-linkTitle: 🔴 Mouthpiece
+title: Mouthpiece 
+status: not-started
 ---
 
 ## Mouthpiece Angle and Placement

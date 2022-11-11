@@ -1,6 +1,7 @@
 ---
-title: 🟢 Healthy Buzz
+title: Healthy Buzz
 weight: 1
+status: done
 ---
 
 Producing a healthy buzz is the main function of a well-functioning embouchure. Always keep the

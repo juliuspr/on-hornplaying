@@ -1,5 +1,7 @@
 ---
 title: Articulation
+status: not-started
+weight: 4
 ---
 
 Synonyms: diction
@@ -8,16 +10,13 @@ Synonyms: diction
 ## Blowing fast, blowing slow
 
 - Fast air and articulation
-- Air before tongue
-- Consonant before the beat
 
-- Ikke spytt. Spitting tone out
+- Ikke spytt. Spitting out the tone
 - Diction, not tonguing
 
 ## Other
 
-
-Tu-Ta are wrong ways to think; engaging the instrument, contact with the resistance.
+Engaging the instrument, contact with the resistance.
 
 No spitting
 

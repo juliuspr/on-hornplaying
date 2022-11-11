@@ -1,7 +1,8 @@
 ---
-title: 🟡 Air
+title: Air
 view: list-essays
 weight: 2
+status: in-progress
 ---
 
 - Silent breath

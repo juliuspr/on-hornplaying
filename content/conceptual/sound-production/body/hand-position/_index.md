@@ -1,4 +1,5 @@
 ---
 title: Hand position
-draft: true
+status: not-started
+weight: 80
 ---

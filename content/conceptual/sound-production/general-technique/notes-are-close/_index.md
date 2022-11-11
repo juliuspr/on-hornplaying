@@ -1,5 +1,6 @@
 ---
 title: Notes are close to one another
+status: not-started
 ---
 
 Find a closest way between two notes.

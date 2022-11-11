@@ -1,7 +1,7 @@
 ---
 title: Structured Aperture
-linkTitle: 🟡 Structured Aperture
 weight: 10
+status: in-progress
 ---
 
 Here are some examples of optimal and less optimal aperture formations. These pictures are about how you should *think* aperture, in reality it will look somewhat different. If you think Nr. 4, then your actual embouchure will look something like Nr. 2. But if you think Nr. 2 then the embouchure will resemble Nr. 1.

@@ -1,5 +1,7 @@
 ---
 title: Open Chest
+status: not-started
+weight: 40
 ---
 
 - Tense chest, relaxed chest. Hihihi-hohoho

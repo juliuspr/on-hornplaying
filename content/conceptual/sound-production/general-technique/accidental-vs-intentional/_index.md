@@ -1,4 +1,5 @@
 ---
 title: Accidental vs Intentional Sounds
-draft: true
+weight: 50
+status: not-started
 ---

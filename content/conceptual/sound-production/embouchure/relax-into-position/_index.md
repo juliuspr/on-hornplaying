@@ -1,7 +1,7 @@
 ---
 title: Relax into position
-linkTitle: 🟡 Relax into position
 weight: 20
+status: in-progress
 ---
 
 ## Relax into position vs force into position

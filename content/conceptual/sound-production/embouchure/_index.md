@@ -1,7 +1,7 @@
 ---
 title: Embouchure
-linkTitle: 🟡 Embouchure
 weight: 3
+status: in-progress
 ---
 
 Discussing embouchure is somewhat paradoxical. Some people can play everything they want

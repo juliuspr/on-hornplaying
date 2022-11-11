@@ -1,7 +1,7 @@
 ---
 title: Beautiful tone
-linkTitle: 🟢 Beautiful tone
 weight: 1
+status: done
 ---
 
 > The most important quality of a horn player is his tone, so spare no effort in constantly striving for a beautiful, full, **characteristic** tone. [^farkas]

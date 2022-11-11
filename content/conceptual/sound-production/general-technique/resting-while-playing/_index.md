@@ -1,6 +1,6 @@
 ---
 title: Resting while Playing
-draft: true
+status: in-progress
 ---
 
 Typically we think that playing the instrument means getting tired. Being idle means we rest. While true to a certain extent, we can nuance this understanding.
