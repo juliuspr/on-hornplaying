@@ -1,7 +1,7 @@
 ---
 title: Freely in, Freely out
-linkTitle: 🟢 Freely in, Freely out 
 weight: 1
+status: done
 ---
 
 **Air should enter you lungs freely, without friction.** Avoid "sucking" the air in. If your inbreath is noisy, probably the air is not coming in as freely as it could.

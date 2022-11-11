@@ -1,10 +1,23 @@
 ---
-title: Efficient Playing
+title: Efficient Playing - 7 Principles
+linkTitle: 🟡 Efficient Playing - 7 Principles
+weight: 10
 ---
 
-Goal: efficiently produce as much beautiful tone as possible with as little effort as possible in every dynamic
+In a nutshell, good horn technique is about efficiently producing as much [beautiful tone]({{< relref "beautiful-tone">}}) as possible with as little effort as possible.
 
-## The basic horn technique
+## Seven principles of efficient technique [^based-on]
+
+[^based-on]: This list is based on Tom Hooten's list
+
+1. [Air comes freely in]({{< relref "freely-in-freely-out" >}})
+2. [Air goes freely out]({{< relref "freely-in-freely-out" >}})
+3. [Low mouthpiece pressure on the lips]({{< relref "low-pressure">}})
+4. [Healthy Buzz]({{< relref "healthy-buzz" >}})
+5. Prepare next note
+6. [Activate core]({{< relref "activate-core" >}})
+7. Lean on resistance (or Blow *through* the horn)
+
 
 A full and relaxed in-breath
 

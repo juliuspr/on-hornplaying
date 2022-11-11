@@ -1,6 +1,7 @@
 ---
-title: 🟡 Expansive air
+title: Expansive air
 weight: 30
+status: in-progress
 ---
 
 ## Ideas for a broad air stream

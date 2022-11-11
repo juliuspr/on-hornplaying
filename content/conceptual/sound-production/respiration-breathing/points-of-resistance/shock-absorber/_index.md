@@ -1,7 +1,19 @@
 ---
-title: "🟡 \"The Shock-absorber\" technique"
+title: "\"The Shock-absorber\" technique"
 weight: 20
+status: in-progress
 ---
+
+[Changing the fingering from long to short]({{< relref "instruments-resistance#find-horns-resistance">}}) often feels like the ground has disappeared from under your feet.
+
+It's as if you run on a solid ground, and all of the sudden you loose the support, aptly illustrated by Looney Tunes characters.
+
+![looney tunes - falling off a cliff](./running-off-a-cliff.png)
+
+Once your body realises it cannot lean against instrument's resistance, it triggers a compensatory tightening of some muscles (throat or chest).
+
+After a few times, this compensatory response becomes a normal way of playing: slightly tighter than necessary.
+Only because the body sometimes freaks out that resistance is gone. I call this habit "The Fear of Falling".
 
 ## The Fear of Falling
 
@@ -9,10 +21,6 @@ weight: 20
 - Leaning requires trust
 
 ## Shock absorber (Støtdempere)
-
-
-
-
 
 - Being glued to resistance
 - Underblowing

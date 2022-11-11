@@ -1,5 +1,6 @@
 ---
-title: 🔴 Leaning
+title: Leaning
+status: not-started
 ---
 
 - Trusting the horn. Leaning onto the resistance. Trusting the resistance.

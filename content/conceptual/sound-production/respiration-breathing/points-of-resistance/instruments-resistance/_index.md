@@ -1,7 +1,7 @@
 ---
 title: Instrument's Resistance
-linkTitle: 🟢 Instrument's Resistance
 weight: 10
+status: done
 ---
 
 > Respect the tube! William VerMeulen [^vermeulen]

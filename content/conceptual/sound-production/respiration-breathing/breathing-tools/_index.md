@@ -1,6 +1,7 @@
 ---
-title: 🔴 Breathing Tools
+title: Breathing Tools
 weight: 150
+status: not-started
 ---
 
 - Palm of your hand (finger breathing)

@@ -4,17 +4,19 @@ linkTitle: 🟡 Embouchure
 weight: 3
 ---
 
+Discussing embouchure is somewhat paradoxical. Some people can play everything they want
+with seemingly faulty embouchure. Others struggle playing well, despite seemingly picture-perfect
+embouchure setup. There are nonetheless some best practices that tend to improve the results,
+when combined with a healthy air stream, intent to play convincingly.
 
-## Structured Embouchure
+
+In this chapter we will review some of the main ideas.
 
 
-## Round Aperture, like camera
 
 ## Directions
 
-## Firm corners
 
-# Length between the lower lip and the chin
 
 **Embouchure**
 

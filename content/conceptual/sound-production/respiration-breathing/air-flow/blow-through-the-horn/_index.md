@@ -1,6 +1,7 @@
 ---
-title: 🟡 Blow Through the Horn
+title: Blow Through the Horn
 weight: 20
+status: in-progress
 ---
 
 > Most students do not BLOW THRU the horn. They blow INTO the horn. Their sounds are stuffy and nasal.  [^gregwing]

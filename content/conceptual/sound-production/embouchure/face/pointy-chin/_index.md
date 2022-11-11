@@ -1,5 +1,5 @@
 ---
-title: "Chin: Pointy and Flat"
+title: "Chin: Pointy, Narrow and Flat"
 draft: true
 ---
 
@@ -10,3 +10,6 @@ You have to figure out how to activate muscles of the face to make make a pointy
 ## Rolled up vs pointy chin
 
 The opposite of a pointy chin is a chin that rolls up and is soft.
+
+
+# Length between the lower lip and the chin

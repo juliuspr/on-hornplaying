@@ -5,3 +5,4 @@ weight: 20
 ---
 
 - Push the mouthpiece away with the lips (lips centered and forward)
+- push the lips away

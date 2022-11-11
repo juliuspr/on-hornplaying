@@ -1,7 +1,10 @@
 ---
-title: 🟢 Two ways of creating air pressure
-weight: 5
+title: Breath Management Strategies
+weight:  5
+status: done
 ---
+
+## Two ways of creating air pressure
 
 Air flow from the lungs is created when the pressure inside lungs (your chest) is greater than outside.
 There are two ways to create this pressure.

@@ -4,6 +4,8 @@ view: list-essays
 weight: 2
 ---
 
+- Silent breath
+
 
 ## Air: in and out. Your lungs. Breathing & Blowing - a cycle
 
@@ -27,9 +29,9 @@ Often people take small breaths up to 50-60%. This causes the need to push the a
 - Dark air. DARK AIR
 - Using the air up
 - Blow the mouthpiece off your face
-- Endings as beautiful and pure as the behinnings
+- Endings as beautiful and pure as the beginnings
 - Solidify blow and flow: straight constant big air stream
-- Create the need for inbreath. Start by showing what the end result might be to show the need for the breathing and then follow that up with the exercises.
+- Create the need for inhalation. Start by showing what the end result might be to show the need for the breathing and then follow that up with the exercises.
 
 
 
@@ -69,17 +71,10 @@ Kanalisere luften (embouchyre og fokus into the leadpipe). (funneling the air: f
 
 See the Ideas
 
-## Learning Activities
-### Learning Activity: Find your lung capacity
-
-
-### Learning Activity: Vanishing time inbreath
-Vanishing time breathing exercise: shorter and shorter organized in-breaths. Quarter, eight not, triplet, sixteenth etc.
-
 
 ## Practice air flow
 
 - Blow through mouthpiece
-- Inverse mouthpiece blowing pattern
+
 - Blow the phrase through the instrument
 - Breathing in with the hand

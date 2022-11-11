@@ -1,6 +1,7 @@
 ---
-title: 🟡 Visualize lung capacity
+title: Visualize lung capacity
 weight: 10
+status: in-progress
 ---
 
 In daily life, we rarely fill up the lungs to the maximum capacity (maybe only when yawning). Employing everyday breathing, students commonly use only part of lungs' capacity when playing the horn. Here's an illustration:
@@ -37,3 +38,7 @@ Visualise. Illustrate how much capacity the student is using and can/should be u
 
 
 [Finger Breathing]({{< ref "breathing-tools" >}})
+
+## Learning Activity: Find your lung capacity
+
+- use [a breathing bag or a spirometer]
