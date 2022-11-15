@@ -9,6 +9,7 @@ title: Managing Fatigue
   - You need some high intensity work, but not that much
 
 
+- Give time for (muscular/neural) adaptations
 
 ## Examples of low intensity work
 

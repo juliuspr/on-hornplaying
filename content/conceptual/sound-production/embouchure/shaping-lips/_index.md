@@ -6,15 +6,21 @@ status: not-started
 
 ## Structured Embouchure
 - firm vs tense
+- lips should direct the air: air stream goes straight/forward (not up or down)
+- whistling embouchure
+- pronounce sound Ü
 
 
-## Enough Shaping
+| Enough Shaping  | Too much shaping   |
+|---|---|
+| ![enough shaping](./good.gif) |  ![too much shaping](./too-much.gif) |
 
-![enough shaping](./good.gif)
 
-## Too much shaping
 
-![too much shaping](./too-much.gif)
+
+
+
+
 
 ## Other ideas
 

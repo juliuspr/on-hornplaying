@@ -1,5 +1,5 @@
 ---
-title: Efficient Playing - 7 Principles
+title: Efficient Playing - 7 Reminders
 weight: 10
 status: in-progress
 ---

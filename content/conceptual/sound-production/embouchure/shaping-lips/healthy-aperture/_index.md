@@ -1,5 +1,5 @@
 ---
-title: Structured Aperture
+title: Aperture
 weight: 10
 status: in-progress
 ---
