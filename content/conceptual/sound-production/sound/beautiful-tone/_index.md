@@ -10,7 +10,7 @@ status: done
 
 ## Describing sound
 
-Learning to describe tone quality can help you to improve it. Listen to players you like and try to describe their sound. Learn to distinguish nuances of color, articulation, note shapes etc. You can then emulate that sound by [forming your own mental conception of an ideal sound]({{< relref "../audiation">}}).
+Learning to describe tone quality can help you to improve it. Listen to players you like and try to describe their sound. Learn to distinguish nuances of color, articulation, note shapes etc. You can then emulate that sound by [forming your own mental conception of an ideal sound]({{< relref "audiation">}}).
 
 Here are some ideas to describe the timbre of tone.
 

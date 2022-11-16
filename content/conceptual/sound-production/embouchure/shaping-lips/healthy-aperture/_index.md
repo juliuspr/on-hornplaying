@@ -26,3 +26,7 @@ You can imagine an aperture in a camera lense.
 ## 4. Tall, thin, vertical aperture - Good
 
 ![aperture 4 - good](./aperture4.jpg)
+
+Excessive [mouthpiece pressure]({{< relref "low-pressure">}}) causes the aperture to flatten and eventually close the aperture[^verne-reynolds].
+
+[^verne-reynolds]: see Reynolds handbook p. 24

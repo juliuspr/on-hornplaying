@@ -1,5 +1,5 @@
 ---
-title: Timing
+title: Pulse and Timing
 weight: 10
 ---
 
