@@ -11,3 +11,7 @@ The [Conceptual](../conceptual) perspective is about thinking. While horn playin
 The [Cultural](../cultural) perspective is about being. As horn players we are a part of a culture. Culture is where and when we live, the things and the ideas that surround us.
 
 In short: to understand Horn Playing we need to see the interplay of these three perspectives. Our cultures shape how we think. Our thinking affects how we act. And how we think and act shape cultures in return. It's a perpetual circle.
+
+## About the process
+
+All the parts are rough drafts. This is a part of [learning in public](https://notes.andymatuschak.org/Work_with_the_garage_door_up) mindset.

@@ -6,6 +6,11 @@ weight: 4
 
 Synonyms: diction
 
+Front of mouth diction: https://www.youtube.com/watch?v=yV7JcTzsYs0&ab_channel=TheWeeklyWarmup-VocalExercisesforSingers
+
+## Elements of articulation
+
+![elements of articulation](./elements-of-articulation)
 
 ## Blowing fast, blowing slow
 

@@ -1,4 +1,4 @@
 ---
-title: Face and Mouth
+title: Mouth Cavity
 status: not-started
 ---
