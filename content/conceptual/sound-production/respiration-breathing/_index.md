@@ -7,6 +7,12 @@ status: in-progress
 
 - Silent breath
 
+Purpose of [breathing exercises]({{< relref "exercises-and-routines#breathing" >}}):
+
+- Better tone
+- Better endurance
+- Helps internalize breathing in time
+- Helps playing together, when people breath in time
 
 ## Air: in and out. Your lungs. Breathing & Blowing - a cycle
 
@@ -17,9 +23,6 @@ You need some muscle power to push the air out when you get under 30%. When you 
 For optimal performance, you should take big breaths so you "operate" in the area between 50% and 90%.
 
 Often people take small breaths up to 50-60%. This causes the need to push the air out making the whole body more tense than it needs to be. The sound quality and endurance suffer.
-
-
-
 
 - Air leading
 - Broad air stream
@@ -34,10 +37,6 @@ Often people take small breaths up to 50-60%. This causes the need to push the a
 - Solidify blow and flow: straight constant big air stream
 - Create the need for inhalation. Start by showing what the end result might be to show the need for the breathing and then follow that up with the exercises.
 
-
-
-
-
 Resting on the resistance. Soft contact with the resistance
 Leaning on the resistance/contact
 Metningspunkt
@@ -45,10 +44,10 @@ Metningspunkt
 Saturation point in air
 
 ## Not a good model
+
 - Pushing air out - no no
 - Mindless blowing
 - Bumpy, inconsistent air stream
-
 
 ## Thoughts
 
@@ -62,7 +61,6 @@ Kanalisere luften (embouchyre og fokus into the leadpipe). (funneling the air: f
 - Ping-pong ball
 - Yawn and sigh
 
-
 ## Air out: two (correct) modes of blowing/exhaling
 
 - Yawn & Sigh and Leaning onto the resistance/Mindful blowing
@@ -71,7 +69,6 @@ Kanalisere luften (embouchyre og fokus into the leadpipe). (funneling the air: f
 ## Support?
 
 See the Ideas
-
 
 ## Practice air flow
 

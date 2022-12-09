@@ -10,3 +10,7 @@ Buzz can be produced with three distinct "settings":
 - with the middle of the lip
 
 Play with the middle of the lip
+
+## Mind the buzz-line
+
+- Keep a consistent buzz line

@@ -1,6 +1,6 @@
 ---
 title: The Art of Horn
-draft: true
+weight: 10
 ---
 
 No amount of writing would do justice to the art of horn. Horn has to be played and listened to.
@@ -11,13 +11,16 @@ No amount of writing would do justice to the art of horn. Horn has to be played 
 - Peter Damm
 - Dennis Brain
 - Radovan Vlatkovic
+- Marie-Luise Neunecker
 - Radek Baborak
 - Vitaly Buyanovsky
 - Sarah Willis
 - Stephan Dohr
 - Alec Frank-Gemmill
 
-
 ## Ensembles
 
 - Vienna Horns
+- German Horn Sound
+- London Horn Sound
+- American Horn Quartet

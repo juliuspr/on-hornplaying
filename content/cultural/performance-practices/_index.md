@@ -1,15 +1,14 @@
 ---
 title: 📖 Performance Practices
-draft: true
+weight: 30
 ---
-
 
 - In tune, on time
 - Do not offend anyone
 
 TODO
-- logics and assumptions of these different practices
 
+- logics and assumptions of these different practices
 
 ## Orkester tankesett
 

@@ -1,4 +1,4 @@
 ---
 title: 📖 Educational Practices
-draft: true
+weight: 30
 ---
