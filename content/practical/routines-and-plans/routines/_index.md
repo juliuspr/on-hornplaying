@@ -1,5 +1,5 @@
 ---
-title: Routines
+title: Practice Plans
 view: list-essays
 weight: 200
 ---
