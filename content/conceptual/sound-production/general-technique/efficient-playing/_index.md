@@ -4,15 +4,13 @@ weight: 10
 status: in-progress
 ---
 
-In a nutshell, good horn technique is about efficiently producing a lot of [beautiful tone]({{< relref "beautiful-tone">}}) with little effort.
+In a nutshell, good horn technique is about producing a lot of [beautiful tone]({{< relref "beautiful-tone">}}) with little effort. In other words, efficiently.
 
-Technique is a dynamic interplay of habits. The better your habits, the better is your playing.
+Our technique is a dynamic interplay of habits that we form over time. The better your habits, the better is your playing.
 
 Habits get better, if you take care of them. They deteriorate, if neglected.
 
 Your playing technique fluctuates with changes in your habits. Sometimes it improves, sometimes it deteriorates. The following is the list of [Atomic habits]({{< relref "atomic-habits" >}}). Practice these with every tone, exercise and piece you play.
-
-
 
 ## 12 habits of efficient technique [^based-on]
 
@@ -20,13 +18,19 @@ Your playing technique fluctuates with changes in your habits. Sometimes it impr
 
 1. Calm down
 1. [Air comes freely in]({{< relref "freely-in-freely-out" >}})
-2. [Air goes freely out]({{< relref "freely-in-freely-out" >}})
-3. [Low mouthpiece pressure on the lips]({{< relref "low-pressure">}})
-4. [Healthy Buzz]({{< relref "healthy-buzz" >}})
-5. Prepare next note
-6. [Activate core]({{< relref "activate-core" >}})
-7. Lean on resistance (or Blow *through* the horn)
-8.
+1. [Air goes freely out]({{< relref "freely-in-freely-out" >}})
+1. [Low mouthpiece pressure on the lips]({{< relref "low-pressure">}})
+1. [Healthy Buzz]({{< relref "healthy-buzz" >}})
+1. Prepare next note
+1. [Activate core]({{< relref "activate-core" >}})
+1. Lean on resistance (or Blow _through_ the horn)
+1. Keep a consistent buzz line (catch or grasp the note)
+1. Bite an apple (and Plumber's wrench)
+1. Beautiful sound
+1. Tongue Retraction (spoon vs cobra)
+1. Have fun, enjoy
+1. Always be phrasing (carry the phrase)
+1. Have a Pulse
 
 [Download a PDF that you can put next to your sheet music.](./checklist.pdf)
 

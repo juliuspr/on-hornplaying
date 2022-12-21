@@ -8,7 +8,6 @@ status: done
 
 **On the way out, air should travel freely as well.** Avoid "pushing" or "forcing" the air out. Think that you are [sighing]({{< relref "yawn-and-sigh">}}) when you breath out.
 
-
 ## Ideas for a relaxed breathing technique
 
 - [Yawn and Sigh]({{< relref "yawn-and-sigh">}})
@@ -25,3 +24,7 @@ status: done
 Check out his video
 
 {{< youtubestartend -5E7MqGQz78 142 >}}
+
+## Mental images for inhalation
+
+- Suck the air from the whole room

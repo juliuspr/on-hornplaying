@@ -1,5 +1,5 @@
 ---
-title: Mid-lip Buzz
+title: Consistent buzzing-line
 status: in-progress
 ---
 
@@ -14,3 +14,4 @@ Play with the middle of the lip
 ## Mind the buzz-line
 
 - Keep a consistent buzz line
+- Mid-lip Buzz

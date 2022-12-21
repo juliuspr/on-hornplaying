@@ -1,4 +1,4 @@
 ---
 title: Three Octaves
-weight: 100
+weight: 90
 ---
