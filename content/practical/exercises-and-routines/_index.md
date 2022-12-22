@@ -2,6 +2,7 @@
 title: 📖 Daily Exercises
 weight: 10
 view: exercise-compendium
+status: in-progress
 ---
 
 You can download a complete exercise collection in PDF:

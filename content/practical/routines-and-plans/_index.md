@@ -2,6 +2,7 @@
 title: ⏰ Routines and Plans
 weight: 15
 view: exercise-compendium
+status: in-progress
 ---
 
 To achieve your goals you should get an overview of your practicing. There are several considerations you should take into account, when designing your practice plan. The plan should ensure that:

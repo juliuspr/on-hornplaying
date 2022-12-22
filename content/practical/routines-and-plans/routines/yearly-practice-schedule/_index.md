@@ -1,3 +1,0 @@
----
-title: Yearly Practice Schedule
----

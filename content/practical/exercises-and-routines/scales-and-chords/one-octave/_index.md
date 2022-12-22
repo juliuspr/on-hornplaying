@@ -3,8 +3,9 @@ title: One Octave *
 weight: 10
 ---
 
-- LINKS TO MUSIC SHEETS
-- LINKS TO VIDEOS
+[Download the exercise PDF](./one-octave-scales-all-keys.pdf)
+
+[Download the ZIP-file with separate PDF for each key](./one-octave-scales-all-keys-separate-files.zip)
 
 ## Intro
 
@@ -48,6 +49,10 @@ As for variations, see the overview over the Scales section.
 
 Scales and chords are essential practice material. They are the main building blocks for most of the repertoire.
 When you know your scales, you can create many new exercises based on them. In "Mastering Scales" I have collected a range of simple exercises to get you started.
+
+## TODO
+
+- Links to videos
 
 ## Mastering Scales. Vol 1
 
