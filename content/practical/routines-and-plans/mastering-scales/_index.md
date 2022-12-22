@@ -1,4 +1,4 @@
 ---
-title: Mastering Scales
-weight: 30
+title: "Mastering Scales: scale-based routines"
+weight: 40
 ---

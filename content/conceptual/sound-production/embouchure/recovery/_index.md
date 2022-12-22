@@ -1,9 +1,9 @@
 ---
-title: Recovery
+title: Recovery Phase
 status: not-started
 ---
 
-- work/recovery cycle
 - let the lips recover while breathing
+- work/recovery cycle
 - avoid pulling the corners of the lips sideways (no smiling)
-- 
+-

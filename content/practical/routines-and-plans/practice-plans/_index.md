@@ -1,5 +1,5 @@
 ---
 title: Practice Plans
 view: list-essays
-weight: 20
+weight: 50
 ---
