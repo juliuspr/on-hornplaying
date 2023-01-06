@@ -30,6 +30,36 @@ Practice the [Atomic Habits of Efficient Technique]({{< relref "efficient-playin
 
 Coming soon
 
+---
+
+## _Start the metronome (optional)_
+
+- Quarter = 96
+
+## Start the stopwatch/timer
+
+- Link to ideas on which tools to use and how.
+
+## Empty the Horn
+
+- Duration: 15''
+
+## Deep breath & Sigh (x3)
+
+- Duration: 15''
+
+## Deep breath & Sizzle
+
+- Duration: 30''
+
+## Golden Sound (G' to C')
+
+- Duration: 3'
+- Time after: 4:00
+- Variations: F-side only
+
+## Reverse Open Harmonics (C''-Fis')
+
 ## To Process
 
 ![](./routine.png)
