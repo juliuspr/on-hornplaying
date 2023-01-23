@@ -3,7 +3,7 @@ title: 20 Minute Warm Up Routine
 weight: 40
 ---
 
-⬇️ [Download the routine](./5-minute-warm-up-routine.pdf) (TODO)
+⬇️ [Download the routine](./20-minute-advanced-routine-a.pdf)
 
 ## The Routine
 
